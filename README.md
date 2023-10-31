@@ -1,4 +1,5 @@
 ## Hello, I'm Jesse! 👋
+[![GitHub forks](https://img.shields.io/github/forks/username/repo.svg)](https://github.com/username/repo/network)
 
 Welcome to my GitHub profile. I'm an enthusiastic developer passionate about building web applications and exploring new technologies.
 
