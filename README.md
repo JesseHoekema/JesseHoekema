@@ -1,5 +1,5 @@
 ## Hello, I'm Jesse! 👋
-[![GitHub forks](https://media.istockphoto.com/id/517188688/photo/mountain-landscape.jpg?s=612x612&w=0&k=20&c=A63koPKaCyIwQWOTFBRWXj_PwCrR4cEoOw2S9Q7yVl8=)](https://media.istockphoto.com/id/517188688/photo/mountain-landscape.jpg?s=612x612&w=0&k=20&c=A63koPKaCyIwQWOTFBRWXj_PwCrR4cEoOw2S9Q7yVl8=)
+
 
 Welcome to my GitHub profile. I'm an enthusiastic developer passionate about building web applications and exploring new technologies.
 
