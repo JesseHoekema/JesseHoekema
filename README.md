@@ -38,3 +38,4 @@ Let's build something amazing together! 🚀
 />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesseHoekema&layout=compact&hide_border=true&langs_count=8&show_icons=true" />
 </picture>
+[![Discord Presence](https://lanyard.cnrad.dev/api/996645651729354785)](https://discord.com/users/996645651729354785)
