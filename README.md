@@ -1,4 +1,5 @@
 ## Hello, I'm Jesse! 👋
+[![Typing SVG](https://lanyard.cnrad.dev/api/996645651729354785?hideActivity=true&hideBadges=true)](/README.md)
 
 
 Welcome to my GitHub profile. I'm an enthusiastic developer passionate about building web applications and exploring new technologies.
@@ -26,6 +27,7 @@ Feel free to explore my repositories. I'm always working on new projects and ide
 I'm always open to collaborations! If you have an interesting project where I can contribute, don't hesitate to reach out.
 
 Let's build something amazing together! 🚀
+
 
 <picture>
 <source 
