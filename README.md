@@ -19,10 +19,10 @@ In my projects, you can expect:
 - 💡 Smart JavaScript logic to support functionality.
 
 #### Skils
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,figma,arduino,bash,blender,raspberrypi)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,figma,arduino,bash,blender,raspberrypi)](https://skillicons.dev)
 
 #### What I Use 
-[![My Skills](https://skillicons.dev/icons?i=vscode,docker,github,cloudflare,firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,docker,github,cloudflare,firebase)](https://jessehoekema.com/#about-me)
 
 #### My Work
 
