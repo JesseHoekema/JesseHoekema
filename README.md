@@ -18,6 +18,12 @@ In my projects, you can expect:
 - 🖌️ Stylish and responsive CSS for an appealing user experience.
 - 💡 Smart JavaScript logic to support functionality.
 
+#### Skils
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,figma,arduino,bash,blender,raspberrypi)](https://skillicons.dev)
+
+#### What I Use 
+[![My Skills](https://skillicons.dev/icons?i=vscode,docker,github,cloudflare,firebase)](https://skillicons.dev)
+
 #### My Work
 
 Feel free to explore my repositories. I'm always working on new projects and ideas to enhance my skills.
