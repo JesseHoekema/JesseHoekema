@@ -34,8 +34,6 @@ I'm always open to collaborations! If you have an interesting project where I ca
 
 Let's build something amazing together! 🚀
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=wp8kp33wks1mgutesbyif9ac8&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true)](https://github.com/kittinan/spotify-github-profile)
-
 
 
 <picture>
