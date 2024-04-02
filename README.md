@@ -1,5 +1,6 @@
 ## Hello, I'm Jesse! 👋
 [![Typing SVG](https://lanyard.cnrad.dev/api/996645651729354785?hideActivity=whenNotUsed&hideBadges=true)](https://discordapp.com/users/996645651729354785)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=wp8kp33wks1mgutesbyif9ac8&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true)](https://github.com/kittinan/spotify-github-profile)
 
 
 Welcome to my GitHub profile. I'm an enthusiastic developer passionate about building web applications and exploring new technologies.
