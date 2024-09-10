@@ -45,5 +45,5 @@ Let's build something amazing together! 🚀
   srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JesseHoekema&layout=compact&hide_border=true&langs_count=8&show_icons=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesseHoekema&layout=compact&hide_border=true&langs_count=8&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesseHoekema&layout=compact&hide_border=true&langs_count=88&show_icons=true" />
 </picture>
