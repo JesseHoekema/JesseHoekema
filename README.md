@@ -1,5 +1,5 @@
 ## Hello, I'm Jesse! 👋
-[![Typing SVG](https://lanyard.cnrad.dev/api/996645651729354785?hideActivity=whenNotUsed&hideBadges=true)](https://discordapp.com/users/996645651729354785)
+[![Typing SVG](https://lanyard.cnrad.dev/api/1263110378666065944?hideActivity=whenNotUsed&hideBadges=true)](https://discordapp.com/users/1263110378666065944)
 
 
 Welcome to my GitHub profile. I'm an enthusiastic developer passionate about building web applications and exploring new technologies.
