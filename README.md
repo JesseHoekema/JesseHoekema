@@ -38,11 +38,11 @@ Let's build something amazing together! 🚀
 
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JesseHoekema&layout=compact&hide_border=true&langs_count=8&show_icons=true&theme=dark"
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JesseHoekema&layout=compact&hide_border=true&langs_count=88&show_icons=true&theme=dark"
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JesseHoekema&layout=compact&hide_border=true&langs_count=8&show_icons=true"
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JesseHoekema&layout=compact&hide_border=true&langs_count=88&show_icons=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesseHoekema&layout=compact&hide_border=true&langs_count=88&show_icons=true" />
