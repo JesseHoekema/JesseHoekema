@@ -1,49 +1,23 @@
-## Hello, I'm Jesse! 👋
-[![Typing SVG](https://lanyard.cnrad.dev/api/1263110378666065944?hideActivity=whenNotUsed&hideBadges=true)](https://discordapp.com/users/1263110378666065944)
+# 💫 About Me:
+Im workinng on some cool projects like a kanban board app for your planing
+<br>
+Im also learning to code in SvelteKit
+<br>
+If you want to have a site build by me [Click Here](https://jessehoekema.com/#contact)
 
 
-Welcome to my GitHub profile. I'm an enthusiastic developer passionate about building web applications and exploring new technologies.
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/jessiflessi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jessehoekema) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/jessiflessi) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@jessiflessi) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/jessiflessi) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/jessiflessi) 
 
-#### About Me
+# 💻 Tech Stack:
+![SvelteKit](https://img.shields.io/badge/sveltekit-%23ff3e00.svg?style=for-the-badge&logo=svelte&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=jessehoekema&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=jessehoekema&theme=dark&hide_border=false)<br/>
+[![](https://visitcount.itsvg.in/api?id=jessehoekema&icon=0&color=0)](https://visitcount.itsvg.in)
 
-- 🌱 Currently, I'm honing my skills in HTML, CSS, and JavaScript.
-- 💡 I love coming up with creative solutions for challenging problems.
-- 🚀 I believe in the power of open source and collaboration.
+  ## 💰 You can help me by Donating
+  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/jessiflessi) 
 
-#### What I Do
-
-In my projects, you can expect:
-
-- 🎨 Well-structured HTML for a solid foundation.
-- 🖌️ Stylish and responsive CSS for an appealing user experience.
-- 💡 Smart JavaScript logic to support functionality.
-
-#### Skils
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,figma,arduino,bash,blender,raspberrypi,robloxstudio,svelte,swift)](https://jessehoekema.com/#about-me)
-
-#### What I Use 
-[![My Skills](https://skillicons.dev/icons?i=vscode,docker,github,cloudflare,firebase)](https://jessehoekema.com/#about-me)
-
-#### My Work
-
-Feel free to explore my repositories. I'm always working on new projects and ideas to enhance my skills.
-
-#### Collaborate
-
-I'm always open to collaborations! If you have an interesting project where I can contribute, don't hesitate to reach out.
-
-Let's build something amazing together! 🚀
-
-
-
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JesseHoekema&layout=compact&hide_border=true&langs_count=88&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JesseHoekema&layout=compact&hide_border=true&langs_count=88&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesseHoekema&layout=compact&hide_border=true&langs_count=88&show_icons=true" />
-</picture>
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
