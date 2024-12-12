@@ -3,7 +3,7 @@ Im workinng on some cool projects like a kanban board app for your planing
 <br>
 Im also learning to code in SvelteKit
 <br>
-If you want to have a site build by me [Click Here](https://jessehoekema.com/#contact)
+If you want to have a site build by me [Click Here](https://jessehoekema.com/#ci)
 
 
 ## 🌐 Socials:
