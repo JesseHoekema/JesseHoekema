@@ -1,5 +1,5 @@
 # 💫 About Me:
-Im workinng on some cool projects like a kanban board app for your planing
+Im working on some cool projects like a kanban board app for your planing
 <br>
 Im also learning to code in SvelteKit
 <br>
