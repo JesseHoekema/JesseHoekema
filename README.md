@@ -1,9 +1,15 @@
 # 💫 About Me:
-Im working on some cool projects like a kanban board app for your planing
+Hello im Jesse also known as Jessi Flessi online.
 <br>
-Im also learning to code in SvelteKit
+Im a full stack freelance developer im building some cool
 <br>
-If you want to have a site build by me [Click Here](https://jessehoekema.com/#ci)
+projects. I make websites with a frontend and if you want a backend
+<br>
+if you want to know what i use as a developer just look above this text
+<br>
+if you need a site just contact me on discord: jessiflessi1
+<br>
+If you want to have a site build by me [Click Here](https://jessehoekema.com/#contact-form)
 
 
 ## 🌐 Socials:
