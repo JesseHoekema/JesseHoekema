@@ -12,13 +12,10 @@ if you need a site just contact me on discord: jessiflessi1
 If you want to have a site build by me [Click Here](https://jessehoekema.com/#contact-form)
 
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/jessiflessi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jessehoekema) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/jessiflessi) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@jessiflessi) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/jessiflessi) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/jessiflessi) 
-
 # 💻 Tech Stack:
 ![techstack](https://raw.githubusercontent.com/JesseHoekema/JesseHoekema/refs/heads/main/skills.svg)
 
-# Wakatime:
+# 🕧 Wakatime:
 <!--START_SECTION:waka-->
 
 ```txt
@@ -42,4 +39,5 @@ Markdown     6 mins          ▒░░░░░░░░░░░░░░░░
   [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/jessiflessi) 
 
   
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/jessiflessi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jessehoekema) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/jessiflessi) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@jessiflessi) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/jessiflessi) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/jessiflessi) 
