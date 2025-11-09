@@ -18,7 +18,7 @@ If you want to have a site build by me [Click Here](https://jessehoekema.com/#co
 # 🕧 Wakatime:
 <!--START_SECTION:waka-->
 
-```txt
+```python
 Total Time: 7 hrs 4 mins
 
 TypeScript   3 hrs 22 mins   ████████████░░░░░░░░░░░░░   47.67 %
