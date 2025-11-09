@@ -19,6 +19,8 @@ If you want to have a site build by me [Click Here](https://jessehoekema.com/#co
 <!--START_SECTION:waka-->
 
 ```python
+From: 01 November 2025 - To: 08 November 2025
+
 Total Time: 7 hrs 4 mins
 
 TypeScript   3 hrs 22 mins   ████████████░░░░░░░░░░░░░   47.67 %
