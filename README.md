@@ -22,6 +22,8 @@ If you want to have a site build by me [Click Here](https://jessehoekema.com/#co
 <!--START_SECTION:waka-->
 
 ```txt
+Total Time: 7 hrs 4 mins
+
 TypeScript   3 hrs 22 mins   ████████████░░░░░░░░░░░░░   47.67 %
 Svelte       2 hrs 51 mins   ██████████░░░░░░░░░░░░░░░   40.36 %
 Bash         22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.30 %
