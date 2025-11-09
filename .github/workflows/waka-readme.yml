@@ -17,3 +17,4 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_MASKED_TIME: true
           CODE_LANG: python
+          SHOW_TITLE: true
