@@ -17,6 +17,11 @@ If you want to have a site build by me [Click Here](https://jessehoekema.com/#co
 
 # 💻 Tech Stack:
 ![techstack](https://raw.githubusercontent.com/JesseHoekema/JesseHoekema/refs/heads/main/skills.svg)
+
+# Wakatime:
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=jessehoekema&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jessehoekema&theme=dark&hide_border=false)<br/>
