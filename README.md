@@ -19,15 +19,15 @@ If you want to have a site build by me [Click Here](https://jessehoekema.com/#co
 <!--START_SECTION:waka-->
 
 ```python
-From: 06 November 2025 - To: 13 November 2025
+From: 08 November 2025 - To: 15 November 2025
 
-Total Time: 3 hrs 4 mins
+Total Time: 6 hrs 58 mins
 
-TypeScript   1 hr 35 mins    █████████████░░░░░░░░░░░░   51.47 %
-Bash         26 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.26 %
-CSS          17 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.36 %
-JavaScript   14 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 %
-JSON         11 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.38 %
+TypeScript           4 hrs 44 mins   █████████████████░░░░░░░░   67.91 %
+Markdown             1 hr 11 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.15 %
+CSS                  17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 %
+Bash                 13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 %
+JSON                 11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.80 %
 ```
 
 <!--END_SECTION:waka-->
