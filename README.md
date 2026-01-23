@@ -19,14 +19,15 @@ If you want to have a site build by me [Click Here](https://jessehoekema.com/#co
 <!--START_SECTION:waka-->
 
 ```python
-From: 13 January 2026 - To: 20 January 2026
+From: 14 January 2026 - To: 21 January 2026
 
-Total Time: 3 hrs 26 mins
+Total Time: 3 hrs 29 mins
 
-Python       1 hr 9 mins     ████████▒░░░░░░░░░░░░░░░░   33.55 %
-JSON         55 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.68 %
-Svelte       52 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.52 %
-TypeScript   29 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.25 %
+Python       1 hr 11 mins    ████████▓░░░░░░░░░░░░░░░░   34.37 %
+Svelte       56 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.92 %
+JSON         56 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.87 %
+TypeScript   23 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.26 %
+JavaScript   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
 ```
 
 <!--END_SECTION:waka-->
