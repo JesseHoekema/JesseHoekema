@@ -16,8 +16,21 @@ If you want to have a site build by me [Click Here](https://jessehoekema.com/#co
 
 # 🕧 Coding Stats:
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+> ⏱️ **Total this week:** 0 hrs 25 mins
+
+```text
+💾 Languages:
+Shell                   8m 22s    ████████░░░░░░░░░░░░░░░░░  31.63%
+TypeScript              6m 24s    ███████░░░░░░░░░░░░░░░░░░  24.20%
+Svelte                  4m 3s     ████░░░░░░░░░░░░░░░░░░░░░  15.31%
+Text                    4m 0s     ████░░░░░░░░░░░░░░░░░░░░░  15.12%
+YAML                    3m 38s    ████░░░░░░░░░░░░░░░░░░░░░  13.74%
+
+💼 Projects:
+jessehoekema.is-a.dev   16m 27s   █████████████████░░░░░░░░  67.14%
+VarkieBank-rewrite      4m 3s     █████░░░░░░░░░░░░░░░░░░░░  16.53%
+unknown                 4m 0s     █████░░░░░░░░░░░░░░░░░░░░  16.33%
+```
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=jessehoekema&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
