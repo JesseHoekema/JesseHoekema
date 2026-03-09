@@ -12,14 +12,16 @@ jobs:
     steps:
       - uses: actions/checkout@master
 
-      - uses: charmbracelet/readme-scribe@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          WAKATIME_URL: https://hackatime.hackclub.com/api/v1/
-        with:
-          template: "templates/README.md.tpl"
-          writeTo: "README.md"
+      - name: Render README template
+        run: |
+          docker run --rm \
+            -e GITHUB_TOKEN="${{ secrets.PERSONAL_GITHUB_TOKEN }}" \
+            -e WAKATIME_API_KEY="${{ secrets.WAKATIME_API_KEY }}" \
+            -e WAKATIME_URL="https://hackatime.hackclub.com/api/v1/" \
+            -v "${{ github.workspace }}:/workspace" \
+            --workdir /workspace \
+            ghcr.io/taciturnaxolotl/markscribe:latest \
+            -write README.md templates/README.md.tpl
 
       - uses: stefanzweifel/git-auto-commit-action@v4
         env:
