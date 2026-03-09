@@ -15,6 +15,7 @@ jobs:
       - uses: athul/waka-readme@master # this action name
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          API_BASE_URL: https://hackatime.hackclub.com/api/v1/
           SHOW_MASKED_TIME: true
           CODE_LANG: python
           SHOW_TITLE: true
