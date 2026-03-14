@@ -16,22 +16,22 @@ If you want to have a site build by me [Click Here](https://jessehoekema.com/#co
 
 # 🕧 Coding Stats:
 
-> ⏱️ **Total this week:** 3 hrs 15 mins
+> ⏱️ **Total this week:** 3 hrs 16 mins
 
 ```text
 💾 Languages:
-Svelte                  1h 46m 14s   ██████████░░░░░░░░░░░░░░░  38.80%
-Markdown                41m 51s      ████░░░░░░░░░░░░░░░░░░░░░  15.29%
-TypeScript              33m 10s      ████░░░░░░░░░░░░░░░░░░░░░  12.11%
-JavaScript              29m 2s       ███░░░░░░░░░░░░░░░░░░░░░░  10.61%
-unknown                 21m 12s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.74%
+Svelte                  1h 46m 14s   ██████████░░░░░░░░░░░░░░░  38.52%
+Markdown                43m 53s      ████░░░░░░░░░░░░░░░░░░░░░  15.91%
+TypeScript              33m 10s      ████░░░░░░░░░░░░░░░░░░░░░  12.03%
+JavaScript              29m 2s       ███░░░░░░░░░░░░░░░░░░░░░░  10.53%
+unknown                 21m 12s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.69%
 
 💼 Projects:
-VarkieBank-rewrite      2h 35m 16s   ███████████████████░░░░░░  75.15%
-VarkieBank              22m 4s       ███░░░░░░░░░░░░░░░░░░░░░░  10.68%
-jessehoekema.is-a.dev   16m 27s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.96%
-jesse                   8m 50s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.28%
-unknown                 4m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.94%
+VarkieBank-rewrite      2h 35m 32s   ███████████████████░░░░░░  75.18%
+VarkieBank              22m 4s       ███░░░░░░░░░░░░░░░░░░░░░░  10.67%
+jessehoekema.is-a.dev   16m 27s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.95%
+jesse                   8m 50s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.27%
+unknown                 4m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.93%
 ```
 
 # 📊 GitHub Stats:
