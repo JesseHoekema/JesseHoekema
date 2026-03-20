@@ -16,22 +16,22 @@ If you want to have a site build by me [Click Here](https://jessehoekema.com/#co
 
 # 🕧 Coding Stats:
 
-> ⏱️ **Total this week:** 5 hrs 37 mins
+> ⏱️ **Total this week:** 6 hrs 22 mins
 
 ```text
 💾 Languages:
-Svelte                 2h 16m 48s   ███████░░░░░░░░░░░░░░░░░░  25.86%
-JavaScript             1h 39m 42s   █████░░░░░░░░░░░░░░░░░░░░  18.84%
-TypeScript             1h 33m 28s   █████░░░░░░░░░░░░░░░░░░░░  17.67%
-unknown                1h 27m 51s   █████░░░░░░░░░░░░░░░░░░░░  16.60%
-Markdown               21m 52s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.13%
+Svelte                 2h 46m 31s   ████████░░░░░░░░░░░░░░░░░  28.16%
+JavaScript             2h 10m 15s   ██████░░░░░░░░░░░░░░░░░░░  22.03%
+TypeScript             1h 33m 28s   ████░░░░░░░░░░░░░░░░░░░░░  15.81%
+unknown                1h 27m 51s   ████░░░░░░░░░░░░░░░░░░░░░  14.86%
+Markdown               21m 52s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.70%
 
 💼 Projects:
-Awaken Movement Site   2h 44m 38s   ████████████░░░░░░░░░░░░░  47.68%
-RoboAI JHBOT           1h 30m 39s   ███████░░░░░░░░░░░░░░░░░░  26.25%
-jesse                  37m 39s      ███░░░░░░░░░░░░░░░░░░░░░░  10.90%
-aap                    28m 9s       ███░░░░░░░░░░░░░░░░░░░░░░  8.15%
-VarkieBank-rewrite     13m 14s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.83%
+Awaken Movement Site   3h 29m 26s   ██████████████░░░░░░░░░░░  53.69%
+RoboAI JHBOT           1h 30m 39s   ██████░░░░░░░░░░░░░░░░░░░  23.24%
+jesse                  37m 39s      ███░░░░░░░░░░░░░░░░░░░░░░  9.65%
+aap                    28m 9s       ██░░░░░░░░░░░░░░░░░░░░░░░  7.22%
+VarkieBank-rewrite     13m 14s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.39%
 ```
 
 # 📊 GitHub Stats:
