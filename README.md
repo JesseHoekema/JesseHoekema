@@ -16,22 +16,22 @@ If you want to have a site build by me [Click Here](https://jessehoekema.com/#co
 
 # 🕧 Coding Stats:
 
-> ⏱️ **Total this week:** 4 hrs 32 mins
+> ⏱️ **Total this week:** 4 hrs 44 mins
 
 ```text
 💾 Languages:
-Svelte                 2h 36m 40s   ██████████░░░░░░░░░░░░░░░  37.89%
-JavaScript             53m 48s      ████░░░░░░░░░░░░░░░░░░░░░  13.01%
-Python                 31m 56s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.72%
-unknown                29m 58s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.25%
-HTML                   28m 44s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.95%
+Svelte                 2h 41m 2s    ██████████░░░░░░░░░░░░░░░  36.82%
+JavaScript             55m 48s      ████░░░░░░░░░░░░░░░░░░░░░  12.76%
+unknown                32m 9s       ██░░░░░░░░░░░░░░░░░░░░░░░  7.35%
+Python                 31m 56s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.30%
+HTML                   28m 44s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.57%
 
 💼 Projects:
-Awaken Movement Site   3h 11m 12s   ███████████████████░░░░░░  72.17%
-signage2               33m 28s      ████░░░░░░░░░░░░░░░░░░░░░  12.63%
-VarkieBank-rewrite     12m 34s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.74%
-F*ck Flask             12m 23s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.67%
-ToetsenBord            6m 49s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.57%
+Awaken Movement Site   3h 11m 12s   ██████████████████░░░░░░░  68.92%
+signage2               33m 28s      ████░░░░░░░░░░░░░░░░░░░░░  12.06%
+ToetsenBord            19m 19s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.96%
+VarkieBank-rewrite     12m 34s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.53%
+F*ck Flask             12m 23s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.46%
 ```
 
 # 📊 GitHub Stats:
