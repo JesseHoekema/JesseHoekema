@@ -16,22 +16,22 @@ If you want to have a site build by me [Click Here](https://jessehoekema.com/#co
 
 # 🕧 Coding Stats:
 
-> ⏱️ **Total this week:** 5 hrs 53 mins
+> ⏱️ **Total this week:** 6 hrs 4 mins
 
 ```text
 💾 Languages:
-unknown                1h 37m 43s   █████░░░░░░░░░░░░░░░░░░░░  17.34%
-PHP                    1h 36m 7s    █████░░░░░░░░░░░░░░░░░░░░  17.06%
-Svelte                 1h 27m 38s   ████░░░░░░░░░░░░░░░░░░░░░  15.55%
-JavaScript             1h 1m 5s     ███░░░░░░░░░░░░░░░░░░░░░░  10.84%
-TypeScript             51m 44s      ███░░░░░░░░░░░░░░░░░░░░░░  9.18%
+PHP                    1h 43m 36s   █████░░░░░░░░░░░░░░░░░░░░  18.06%
+unknown                1h 39m 43s   █████░░░░░░░░░░░░░░░░░░░░  17.38%
+Svelte                 1h 27m 38s   ████░░░░░░░░░░░░░░░░░░░░░  15.27%
+JavaScript             1h 1m 5s     ███░░░░░░░░░░░░░░░░░░░░░░  10.65%
+TypeScript             51m 44s      ███░░░░░░░░░░░░░░░░░░░░░░  9.02%
 
 💼 Projects:
-laravel-app            1h 35m 39s   ████████░░░░░░░░░░░░░░░░░  28.10%
-Tracklytics            59m 21s      █████░░░░░░░░░░░░░░░░░░░░  17.43%
-Awaken Movement Site   57m 42s      █████░░░░░░░░░░░░░░░░░░░░  16.95%
-signage2               35m 29s      ███░░░░░░░░░░░░░░░░░░░░░░  10.42%
-Stomme File Manager    23m 50s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.00%
+laravel-app            1h 35m 39s   ███████░░░░░░░░░░░░░░░░░░  27.27%
+Tracklytics            59m 21s      █████░░░░░░░░░░░░░░░░░░░░  16.92%
+Awaken Movement Site   57m 42s      █████░░░░░░░░░░░░░░░░░░░░  16.45%
+signage2               35m 29s      ███░░░░░░░░░░░░░░░░░░░░░░  10.12%
+Stomme File Manager    23m 50s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.80%
 ```
 
 # 📊 GitHub Stats:
