@@ -16,22 +16,22 @@ If you want to have a site build by me [Click Here](https://jessehoekema.com/#co
 
 # 🕧 Coding Stats:
 
-> ⏱️ **Total this week:** 6 hrs 49 mins
+> ⏱️ **Total this week:** 6 hrs 45 mins
 
 ```text
 💾 Languages:
-unknown           2h 33m 51s   ███████░░░░░░░░░░░░░░░░░░  27.08%
-Svelte            2h 20m 9s    ███████░░░░░░░░░░░░░░░░░░  24.67%
-PHP               1h 44m 51s   █████░░░░░░░░░░░░░░░░░░░░  18.45%
-TypeScript        42m 17s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.44%
-JavaScript        27m 17s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.80%
+unknown           2h 33m 51s   ███████░░░░░░░░░░░░░░░░░░  27.27%
+Svelte            2h 18m 9s    ███████░░░░░░░░░░░░░░░░░░  24.49%
+PHP               1h 44m 51s   █████░░░░░░░░░░░░░░░░░░░░  18.58%
+TypeScript        42m 17s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.49%
+JavaScript        25m 17s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.48%
 
 💼 Projects:
-Tracklytics       3h 0m 47s    ████████████░░░░░░░░░░░░░  45.04%
-laravel-app       1h 38m 41s   ███████░░░░░░░░░░░░░░░░░░  24.59%
-lama2             51m 33s      ████░░░░░░░░░░░░░░░░░░░░░  12.84%
-jesse             30m 34s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.62%
-laravel-gekloot   25m 3s       ██░░░░░░░░░░░░░░░░░░░░░░░  6.24%
+Tracklytics       3h 0m 47s    ████████████░░░░░░░░░░░░░  45.27%
+laravel-app       1h 38m 41s   ███████░░░░░░░░░░░░░░░░░░  24.71%
+lama2             51m 33s      ████░░░░░░░░░░░░░░░░░░░░░  12.91%
+jesse             30m 34s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.65%
+laravel-gekloot   25m 3s       ██░░░░░░░░░░░░░░░░░░░░░░░  6.27%
 ```
 
 # 📊 GitHub Stats:
