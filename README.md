@@ -16,22 +16,22 @@ If you want to have a site build by me [Click Here](https://jessehoekema.com/#co
 
 # 🕧 Coding Stats:
 
-> ⏱️ **Total this week:** 9 hrs 33 mins
+> ⏱️ **Total this week:** 10 hrs 11 mins
 
 ```text
 💾 Languages:
-Svelte                  4h 41m 17s   ████████░░░░░░░░░░░░░░░░░  30.82%
-TypeScript              3h 8m 55s    ██████░░░░░░░░░░░░░░░░░░░  20.70%
-unknown                 2h 29m 10s   █████░░░░░░░░░░░░░░░░░░░░  16.34%
-JavaScript              2h 4m 33s    ████░░░░░░░░░░░░░░░░░░░░░  13.65%
-Prisma                  38m 17s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.19%
+Svelte                  5h 3m 25s    ████████░░░░░░░░░░░░░░░░░  30.54%
+TypeScript              3h 23m 57s   ██████░░░░░░░░░░░░░░░░░░░  20.53%
+unknown                 2h 53m 11s   █████░░░░░░░░░░░░░░░░░░░░  17.43%
+JavaScript              2h 8m 33s    ████░░░░░░░░░░░░░░░░░░░░░  12.94%
+Prisma                  43m 33s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.38%
 
 💼 Projects:
-Tracklytics             6h 56m 10s   ███████████████████░░░░░░  73.46%
-WaveAI                  56m 46s      ███░░░░░░░░░░░░░░░░░░░░░░  10.02%
-lama2                   53m 53s      ███░░░░░░░░░░░░░░░░░░░░░░  9.51%
-jesse                   27m 7s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.79%
-jessehoekema.is-a.dev   8m 40s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.53%
+Tracklytics             7h 33m 22s   ███████████████████░░░░░░  74.76%
+WaveAI                  56m 46s      ███░░░░░░░░░░░░░░░░░░░░░░  9.36%
+lama2                   54m 37s      ███░░░░░░░░░░░░░░░░░░░░░░  9.01%
+jesse                   29m 7s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.80%
+jessehoekema.is-a.dev   8m 40s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.43%
 ```
 
 # 📊 GitHub Stats:
