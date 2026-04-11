@@ -16,22 +16,22 @@ If you want to have a site build by me [Click Here](https://jessehoekema.com/#co
 
 # 🕧 Coding Stats:
 
-> ⏱️ **Total this week:** 11 hrs 42 mins
+> ⏱️ **Total this week:** 11 hrs 14 mins
 
 ```text
 💾 Languages:
-Svelte               5h 58m 2s    ████████░░░░░░░░░░░░░░░░░  30.51%
-TypeScript           4h 14m 23s   ██████░░░░░░░░░░░░░░░░░░░  21.68%
-JavaScript           2h 59m 19s   ████░░░░░░░░░░░░░░░░░░░░░  15.28%
-unknown              2h 38m 26s   ████░░░░░░░░░░░░░░░░░░░░░  13.50%
-Prisma               45m 33s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.88%
+Svelte               5h 35m 43s   ████████░░░░░░░░░░░░░░░░░  29.77%
+TypeScript           4h 6m 23s    ██████░░░░░░░░░░░░░░░░░░░  21.85%
+JavaScript           2h 51m 51s   ████░░░░░░░░░░░░░░░░░░░░░  15.24%
+unknown              2h 37m 1s    ████░░░░░░░░░░░░░░░░░░░░░  13.92%
+Prisma               45m 33s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.04%
 
 💼 Projects:
-Tracklytics          7h 36m 33s   █████████████████░░░░░░░░  65.86%
-WaveAI               1h 21m 47s   ███░░░░░░░░░░░░░░░░░░░░░░  11.80%
-VarkieBank-rewrite   33m 34s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.84%
-JHRADIO              32m 5s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.63%
-shining-shell        31m 18s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.52%
+Tracklytics          7h 5m 47s    █████████████████░░░░░░░░  64.07%
+WaveAI               1h 21m 47s   ████░░░░░░░░░░░░░░░░░░░░░  12.31%
+VarkieBank-rewrite   33m 34s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.05%
+JHRADIO              32m 5s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.83%
+shining-shell        31m 18s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.71%
 ```
 
 # 📊 GitHub Stats:
