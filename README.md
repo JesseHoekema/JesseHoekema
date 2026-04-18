@@ -16,22 +16,22 @@ If you want to have a site build by me [Click Here](https://jessehoekema.com/#co
 
 # 🕧 Coding Stats:
 
-> ⏱️ **Total this week:** 6 hrs 4 mins
+> ⏱️ **Total this week:** 4 hrs 9 mins
 
 ```text
 💾 Languages:
-Astro                 1h 39m 21s   █████░░░░░░░░░░░░░░░░░░░░  16.90%
-Markdown              1h 31m 29s   ████░░░░░░░░░░░░░░░░░░░░░  15.56%
-TypeScript            1h 29m 40s   ████░░░░░░░░░░░░░░░░░░░░░  15.25%
-Svelte                1h 28m 29s   ████░░░░░░░░░░░░░░░░░░░░░  15.05%
-unknown               1h 8m 10s    ███░░░░░░░░░░░░░░░░░░░░░░  11.59%
+Markdown              1h 17m 11s   ██████░░░░░░░░░░░░░░░░░░░  20.71%
+Astro                 1h 13m 56s   █████░░░░░░░░░░░░░░░░░░░░  19.84%
+TypeScript            1h 0m 59s    █████░░░░░░░░░░░░░░░░░░░░  16.37%
+Svelte                47m 1s       ████░░░░░░░░░░░░░░░░░░░░░  12.62%
+unknown               32m 40s      ███░░░░░░░░░░░░░░░░░░░░░░  8.77%
 
 💼 Projects:
-VarkieBank Blog 2.0   2h 16m 24s   ██████████░░░░░░░░░░░░░░░  37.80%
-VarkieBank-rewrite    1h 23m 51s   ██████░░░░░░░░░░░░░░░░░░░  23.24%
-WaveAI                35m 51s      ███░░░░░░░░░░░░░░░░░░░░░░  9.93%
-shining-shell         31m 19s      ███░░░░░░░░░░░░░░░░░░░░░░  8.68%
-jesse                 19m 32s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.41%
+VarkieBank Blog 2.0   2h 16m 24s   ██████████████░░░░░░░░░░░  53.92%
+VarkieBank-rewrite    57m 5s       ██████░░░░░░░░░░░░░░░░░░░  22.57%
+jesse                 19m 32s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.72%
+VarkieBank            15m 1s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.94%
+xmlsite               12m 35s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.97%
 ```
 
 # 📊 GitHub Stats:
