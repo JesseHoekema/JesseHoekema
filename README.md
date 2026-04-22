@@ -16,22 +16,22 @@ If you want to have a site build by me [Click Here](https://jessehoekema.com/#co
 
 # 🕧 Coding Stats:
 
-> ⏱️ **Total this week:** 1 hrs 19 mins
+> ⏱️ **Total this week:** 1 hrs 49 mins
 
 ```text
 💾 Languages:
-unknown               59m 27s   ██████████████░░░░░░░░░░░  53.91%
-Python                26m 49s   ███████░░░░░░░░░░░░░░░░░░  24.32%
-HTML                  7m 37s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.91%
-Markdown              7m 0s     ██░░░░░░░░░░░░░░░░░░░░░░░  6.35%
-Svelte                2m 51s    █░░░░░░░░░░░░░░░░░░░░░░░░  2.58%
+unknown               1h 18m 3s   ██████████████░░░░░░░░░░░  52.22%
+Python                26m 49s     █████░░░░░░░░░░░░░░░░░░░░  17.94%
+TypeScript            17m 36s     ███░░░░░░░░░░░░░░░░░░░░░░  11.78%
+HTML                  7m 37s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.10%
+Markdown              7m 0s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.68%
 
 💼 Projects:
-xmlsite               53m 49s   █████████████████░░░░░░░░  64.92%
-jesse                 20m 57s   ███████░░░░░░░░░░░░░░░░░░  25.27%
-WaveAI                2m 51s    █░░░░░░░░░░░░░░░░░░░░░░░░  3.44%
-VarkieBank Blog 2.0   2m 27s    █░░░░░░░░░░░░░░░░░░░░░░░░  2.96%
-VarkieBank-rewrite    2m 13s    █░░░░░░░░░░░░░░░░░░░░░░░░  2.67%
+xmlsite               53m 49s     █████████████░░░░░░░░░░░░  48.34%
+ExpoApp               28m 26s     ███████░░░░░░░░░░░░░░░░░░  25.54%
+jesse                 20m 57s     █████░░░░░░░░░░░░░░░░░░░░  18.82%
+WaveAI                2m 51s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.56%
+VarkieBank Blog 2.0   2m 27s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.20%
 ```
 
 # 📊 GitHub Stats:
