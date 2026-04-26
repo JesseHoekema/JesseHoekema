@@ -16,22 +16,20 @@ If you want to have a site build by me [Click Here](https://jessehoekema.com/#co
 
 # 🕧 Coding Stats:
 
-> ⏱️ **Total this week:** 1 hrs 26 mins
+> ⏱️ **Total this week:** 1 hrs 19 mins
 
 ```text
 💾 Languages:
-unknown       58m 58s   ██████████████░░░░░░░░░░░  52.13%
-TypeScript    14m 6s    ████░░░░░░░░░░░░░░░░░░░░░  12.47%
-Python        13m 20s   ███░░░░░░░░░░░░░░░░░░░░░░  11.79%
-HTML          9m 37s    ███░░░░░░░░░░░░░░░░░░░░░░  8.50%
-Svelte        5m 1s     ██░░░░░░░░░░░░░░░░░░░░░░░  4.43%
+unknown      56m 21s   ██████████████░░░░░░░░░░░  53.42%
+TypeScript   14m 6s    ████░░░░░░░░░░░░░░░░░░░░░  13.37%
+Python       13m 20s   ████░░░░░░░░░░░░░░░░░░░░░  12.64%
+HTML         9m 37s    ███░░░░░░░░░░░░░░░░░░░░░░  9.12%
+Markdown     5m 0s     ██░░░░░░░░░░░░░░░░░░░░░░░  4.74%
 
 💼 Projects:
-xmlsite       40m 47s   ████████████░░░░░░░░░░░░░  47.51%
-ExpoApp       28m 55s   █████████░░░░░░░░░░░░░░░░  33.69%
-jesse         10m 30s   ████░░░░░░░░░░░░░░░░░░░░░  12.23%
-WaveAI        5m 1s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.84%
-Screenshots   37s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.72%
+xmlsite      40m 47s   █████████████░░░░░░░░░░░░  50.85%
+ExpoApp      28m 55s   ██████████░░░░░░░░░░░░░░░  36.06%
+jesse        10m 30s   ████░░░░░░░░░░░░░░░░░░░░░  13.09%
 ```
 
 # 📊 GitHub Stats:
