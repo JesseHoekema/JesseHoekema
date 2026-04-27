@@ -16,20 +16,20 @@ If you want to have a site build by me [Click Here](https://jessehoekema.com/#co
 
 # 🕧 Coding Stats:
 
-> ⏱️ **Total this week:** 1 hrs 19 mins
+> ⏱️ **Total this week:** 0 hrs 53 mins
 
 ```text
 💾 Languages:
-unknown      56m 21s   ██████████████░░░░░░░░░░░  53.42%
-TypeScript   14m 6s    ████░░░░░░░░░░░░░░░░░░░░░  13.37%
-Python       13m 20s   ████░░░░░░░░░░░░░░░░░░░░░  12.64%
-HTML         9m 37s    ███░░░░░░░░░░░░░░░░░░░░░░  9.12%
-Markdown     5m 0s     ██░░░░░░░░░░░░░░░░░░░░░░░  4.74%
+unknown      32m 56s   █████████████░░░░░░░░░░░░  50.88%
+TypeScript   14m 6s    ██████░░░░░░░░░░░░░░░░░░░  21.78%
+HTML         9m 37s    ████░░░░░░░░░░░░░░░░░░░░░  14.86%
+Markdown     3m 0s     ██░░░░░░░░░░░░░░░░░░░░░░░  4.63%
+JSON         2m 36s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.02%
 
 💼 Projects:
-xmlsite      40m 47s   █████████████░░░░░░░░░░░░  50.85%
-ExpoApp      28m 55s   ██████████░░░░░░░░░░░░░░░  36.06%
-jesse        10m 30s   ████░░░░░░░░░░░░░░░░░░░░░  13.09%
+ExpoApp      28m 55s   ███████████████░░░░░░░░░░  58.12%
+xmlsite      16m 58s   █████████░░░░░░░░░░░░░░░░  34.10%
+jesse        3m 52s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.77%
 ```
 
 # 📊 GitHub Stats:
