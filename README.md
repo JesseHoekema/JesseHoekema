@@ -16,22 +16,22 @@ If you want to have a site build by me [Click Here](https://jessehoekema.com/#co
 
 # 🕧 Coding Stats:
 
-> ⏱️ **Total this week:** 1 hrs 20 mins
+> ⏱️ **Total this week:** 2 hrs 9 mins
 
 ```text
 💾 Languages:
-unknown                   50m 10s   ██████████░░░░░░░░░░░░░░░  36.85%
-Svelte                    30m 18s   ██████░░░░░░░░░░░░░░░░░░░  22.26%
-TypeScript                26m 41s   █████░░░░░░░░░░░░░░░░░░░░  19.60%
-JSON                      15m 30s   ███░░░░░░░░░░░░░░░░░░░░░░  11.39%
-JavaScript                8m 13s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.04%
+unknown                   1h 10m 18s   █████████░░░░░░░░░░░░░░░░  32.81%
+Svelte                    56m 42s      ███████░░░░░░░░░░░░░░░░░░  26.47%
+TypeScript                31m 22s      ████░░░░░░░░░░░░░░░░░░░░░  14.64%
+JavaScript                24m 29s      ███░░░░░░░░░░░░░░░░░░░░░░  11.43%
+Shell                     15m 53s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.41%
 
 💼 Projects:
-District Nine             35m 55s   ████████████░░░░░░░░░░░░░  46.40%
-trillion-dollar-project   18m 8s    ██████░░░░░░░░░░░░░░░░░░░  23.43%
-routes                    7m 12s    ███░░░░░░░░░░░░░░░░░░░░░░  9.30%
-jesse                     5m 33s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.17%
-free-claude-code          5m 19s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.87%
+District Nine             1h 2m 25s    █████████████░░░░░░░░░░░░  48.50%
+trillion-dollar-project   18m 8s       ████░░░░░░░░░░░░░░░░░░░░░  14.09%
+jesse                     11m 52s      ███░░░░░░░░░░░░░░░░░░░░░░  9.22%
+my-medusa-store           11m 30s      ███░░░░░░░░░░░░░░░░░░░░░░  8.94%
+routes                    7m 12s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.60%
 ```
 
 # 📊 GitHub Stats:
