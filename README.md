@@ -16,22 +16,22 @@ If you want to have a site build by me [Click Here](https://jessehoekema.com/#co
 
 # 🕧 Coding Stats:
 
-> ⏱️ **Total this week:** 0 hrs 28 mins
+> ⏱️ **Total this week:** 1 hrs 20 mins
 
 ```text
 💾 Languages:
-unknown                   14m 43s   ███████████░░░░░░░░░░░░░░  44.00%
-TypeScript                14m 32s   ███████████░░░░░░░░░░░░░░  43.45%
-JSON                      4m 0s     ███░░░░░░░░░░░░░░░░░░░░░░  11.96%
-JavaScript                8s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.40%
-Svelte                    4s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.20%
+unknown                   50m 10s   ██████████░░░░░░░░░░░░░░░  36.85%
+Svelte                    30m 18s   ██████░░░░░░░░░░░░░░░░░░░  22.26%
+TypeScript                26m 41s   █████░░░░░░░░░░░░░░░░░░░░  19.60%
+JSON                      15m 30s   ███░░░░░░░░░░░░░░░░░░░░░░  11.39%
+JavaScript                8m 13s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.04%
 
 💼 Projects:
-trillion-dollar-project   18m 8s    ████████████████░░░░░░░░░  61.19%
-routes                    7m 12s    ███████░░░░░░░░░░░░░░░░░░  24.30%
-jesse                     4m 0s     ████░░░░░░░░░░░░░░░░░░░░░  13.50%
-WaBot                     14s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.79%
-jessehoekema.is-a.dev     4s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.22%
+District Nine             35m 55s   ████████████░░░░░░░░░░░░░  46.40%
+trillion-dollar-project   18m 8s    ██████░░░░░░░░░░░░░░░░░░░  23.43%
+routes                    7m 12s    ███░░░░░░░░░░░░░░░░░░░░░░  9.30%
+jesse                     5m 33s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.17%
+free-claude-code          5m 19s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.87%
 ```
 
 # 📊 GitHub Stats:
