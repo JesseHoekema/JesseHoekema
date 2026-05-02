@@ -16,7 +16,7 @@ If you want to have a site build by me [Click Here](https://jessehoekema.com/#co
 
 # 🕧 Coding Stats:
 
-> ⏱️ **Total this week:** 2 hrs 9 mins
+> ⏱️ **Total this week:** 2 hrs 11 mins
 
 ```text
 💾 Languages:
