@@ -16,22 +16,22 @@ If you want to have a site build by me [Click Here](https://jessehoekema.com/#co
 
 # 🕧 Coding Stats:
 
-> ⏱️ **Total this week:** 10 hrs 3 mins
+> ⏱️ **Total this week:** 8 hrs 20 mins
 
 ```text
 💾 Languages:
-unknown           4h 18m 40s   ███████░░░░░░░░░░░░░░░░░░  25.61%
-TypeScript        3h 44m 28s   ██████░░░░░░░░░░░░░░░░░░░  22.23%
-JavaScript        2h 24m 36s   ████░░░░░░░░░░░░░░░░░░░░░  14.32%
-JSON              1h 24m 39s   ███░░░░░░░░░░░░░░░░░░░░░░  8.38%
-Shell             1h 17m 37s   ██░░░░░░░░░░░░░░░░░░░░░░░  7.69%
+TypeScript          3h 27m 38s   ███████░░░░░░░░░░░░░░░░░░  25.29%
+unknown             3h 23m 23s   ███████░░░░░░░░░░░░░░░░░░  24.77%
+JavaScript          2h 0m 15s    ████░░░░░░░░░░░░░░░░░░░░░  14.64%
+Docker              1h 15m 51s   ███░░░░░░░░░░░░░░░░░░░░░░  9.24%
+JSON                1h 13m 9s    ███░░░░░░░░░░░░░░░░░░░░░░  8.91%
 
 💼 Projects:
-my-medusa-store   6h 46m 5s    ███████████████░░░░░░░░░░  56.71%
-backend           1h 19m 40s   ███░░░░░░░░░░░░░░░░░░░░░░  11.13%
-District Nine     1h 11m 10s   ███░░░░░░░░░░░░░░░░░░░░░░  9.94%
-storefront        46m 51s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.54%
-PolarLearn-v2     28m 13s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.94%
+my-medusa-store     6h 32m 35s   █████████████████░░░░░░░░  64.32%
+backend             1h 11m 23s   ███░░░░░░░░░░░░░░░░░░░░░░  11.70%
+storefront          46m 51s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.68%
+PolarLearn-v2       28m 13s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.62%
+featured-products   23m 18s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.82%
 ```
 
 # 📊 GitHub Stats:
