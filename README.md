@@ -16,22 +16,22 @@ If you want to have a site build by me [Click Here](https://jessehoekema.com/#co
 
 # 🕧 Coding Stats:
 
-> ⏱️ **Total this week:** 7 hrs 7 mins
+> ⏱️ **Total this week:** 5 hrs 45 mins
 
 ```text
 💾 Languages:
-unknown           2h 38m 52s   ██████░░░░░░░░░░░░░░░░░░░  23.00%
-TypeScript        2h 29m 13s   ██████░░░░░░░░░░░░░░░░░░░  21.61%
-JavaScript        1h 58m 4s    █████░░░░░░░░░░░░░░░░░░░░  17.10%
-Docker            1h 15m 51s   ███░░░░░░░░░░░░░░░░░░░░░░  10.98%
-Shell             57m 44s      ███░░░░░░░░░░░░░░░░░░░░░░  8.36%
+TypeScript        2h 18m 14s   ███████░░░░░░░░░░░░░░░░░░  26.59%
+unknown           2h 5m 47s    ███████░░░░░░░░░░░░░░░░░░  24.20%
+JavaScript        1h 21m 3s    ████░░░░░░░░░░░░░░░░░░░░░  15.59%
+Docker            48m 27s      ███░░░░░░░░░░░░░░░░░░░░░░  9.32%
+JSON              39m 21s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.57%
 
 💼 Projects:
-my-medusa-store   5h 35m 28s   ██████████████████░░░░░░░  68.21%
-backend           1h 17m 43s   ████░░░░░░░░░░░░░░░░░░░░░  15.80%
-PolarLearn-v2     28m 13s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.74%
-storefront        24m 44s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.03%
-Documents         12m 38s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.57%
+my-medusa-store   4h 24m 43s   █████████████████░░░░░░░░  67.30%
+backend           1h 1m 57s    ████░░░░░░░░░░░░░░░░░░░░░  15.75%
+PolarLearn-v2     28m 13s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.17%
+storefront        16m 43s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.25%
+Documents         8m 45s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.22%
 ```
 
 # 📊 GitHub Stats:
