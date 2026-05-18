@@ -16,22 +16,22 @@ If you want to have a site build by me [Click Here](https://jessehoekema.com/#co
 
 # 🕧 Coding Stats:
 
-> ⏱️ **Total this week:** 2 hrs 32 mins
+> ⏱️ **Total this week:** 2 hrs 46 mins
 
 ```text
 💾 Languages:
-TypeScript       1h 35m 53s   ██████████░░░░░░░░░░░░░░░  36.84%
-unknown          1h 10m 16s   ███████░░░░░░░░░░░░░░░░░░  27.00%
-HTML             27m 39s      ███░░░░░░░░░░░░░░░░░░░░░░  10.62%
-Python           24m 25s      ███░░░░░░░░░░░░░░░░░░░░░░  9.38%
-JSON             18m 57s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.28%
+TypeScript        1h 42m 2s    ██████████░░░░░░░░░░░░░░░  36.94%
+unknown           1h 18m 19s   ████████░░░░░░░░░░░░░░░░░  28.35%
+HTML              27m 39s      ███░░░░░░░░░░░░░░░░░░░░░░  10.01%
+Python            24m 25s      ███░░░░░░░░░░░░░░░░░░░░░░  8.84%
+JSON              18m 57s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.86%
 
 💼 Projects:
-KuilartPoepjes   1h 45m 11s   ████████████░░░░░░░░░░░░░  47.58%
-PolarLearn-v2    1h 34m 1s    ███████████░░░░░░░░░░░░░░  42.53%
-PolarLearn       13m 17s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.01%
-templates        5m 33s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.51%
-jesse            3m 1s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.36%
+KuilartPoepjes    1h 45m 11s   ████████████░░░░░░░░░░░░░  44.64%
+PolarLearn-v2     1h 34m 1s    ██████████░░░░░░░░░░░░░░░  39.90%
+PolarLearn        13m 17s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.64%
+jesse             8m 5s        █░░░░░░░░░░░░░░░░░░░░░░░░  3.43%
+my-medusa-store   6m 9s        █░░░░░░░░░░░░░░░░░░░░░░░░  2.61%
 ```
 
 # 📊 GitHub Stats:
