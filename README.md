@@ -16,15 +16,20 @@ If you want to have a site build by me [Click Here](https://jessehoekema.com/#co
 
 # 🕧 Coding Stats:
 
-> ⏱️ **Total this week:** 0 hrs 12 mins
+> ⏱️ **Total this week:** 0 hrs 31 mins
 
 ```text
 💾 Languages:
-unknown        9m 57s    ████████████████░░░░░░░░░  60.73%
-Python         6m 26s    ██████████░░░░░░░░░░░░░░░  39.27%
+unknown          19m 16s   ██████████████░░░░░░░░░░░  52.14%
+Python           10m 54s   ████████░░░░░░░░░░░░░░░░░  29.50%
+JavaScript       6m 47s    █████░░░░░░░░░░░░░░░░░░░░  18.36%
 
 💼 Projects:
-Spotify Skip   10m 42s   █████████████████████████  100.00%
+Spotify Skip     10m 42s   ███████████░░░░░░░░░░░░░░  42.46%
+PolarLearn-v2    8m 54s    █████████░░░░░░░░░░░░░░░░  35.32%
+Documents        3m 0s     ███░░░░░░░░░░░░░░░░░░░░░░  11.90%
+scate            2m 27s    ███░░░░░░░░░░░░░░░░░░░░░░  9.72%
+Printer Expose   9s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.60%
 ```
 
 # 📊 GitHub Stats:
