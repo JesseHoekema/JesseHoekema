@@ -16,20 +16,22 @@ If you want to have a site build by me [Click Here](https://jessehoekema.com/#co
 
 # 🕧 Coding Stats:
 
-> ⏱️ **Total this week:** 0 hrs 31 mins
+> ⏱️ **Total this week:** 0 hrs 57 mins
 
 ```text
 💾 Languages:
-unknown          19m 16s   ██████████████░░░░░░░░░░░  52.14%
-Python           10m 54s   ████████░░░░░░░░░░░░░░░░░  29.50%
-JavaScript       6m 47s    █████░░░░░░░░░░░░░░░░░░░░  18.36%
+unknown          27m 15s   ██████████░░░░░░░░░░░░░░░  36.33%
+TypeScript       19m 47s   ███████░░░░░░░░░░░░░░░░░░  26.38%
+JavaScript       12m 47s   █████░░░░░░░░░░░░░░░░░░░░  17.04%
+Python           11m 23s   ████░░░░░░░░░░░░░░░░░░░░░  15.18%
+JSON             3m 48s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.07%
 
 💼 Projects:
-Spotify Skip     10m 42s   ███████████░░░░░░░░░░░░░░  42.46%
-PolarLearn-v2    8m 54s    █████████░░░░░░░░░░░░░░░░  35.32%
-Documents        3m 0s     ███░░░░░░░░░░░░░░░░░░░░░░  11.90%
-scate            2m 27s    ███░░░░░░░░░░░░░░░░░░░░░░  9.72%
-Printer Expose   9s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.60%
+PolarLearn-v2    34m 7s    █████████████████░░░░░░░░  67.00%
+Spotify Skip     10m 42s   ██████░░░░░░░░░░░░░░░░░░░  21.01%
+Documents        3m 0s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.89%
+scate            2m 57s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.79%
+Printer Expose   9s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.29%
 ```
 
 # 📊 GitHub Stats:
