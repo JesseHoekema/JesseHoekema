@@ -16,21 +16,22 @@ If you want to have a site build by me [Click Here](https://jessehoekema.com/#co
 
 # 🕧 Coding Stats:
 
-> ⏱️ **Total this week:** 1 hrs 38 mins
+> ⏱️ **Total this week:** 1 hrs 55 mins
 
 ```text
 💾 Languages:
-HTML            43m 25s   █████████░░░░░░░░░░░░░░░░  32.14%
-unknown         37m 13s   ███████░░░░░░░░░░░░░░░░░░  27.55%
-TypeScript      28m 55s   ██████░░░░░░░░░░░░░░░░░░░  21.41%
-JavaScript      14m 47s   ███░░░░░░░░░░░░░░░░░░░░░░  10.94%
-JSON            5m 48s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.29%
+unknown           46m 0s    ████████░░░░░░░░░░░░░░░░░  28.64%
+HTML              43m 25s   ███████░░░░░░░░░░░░░░░░░░  27.03%
+TypeScript        28m 55s   █████░░░░░░░░░░░░░░░░░░░░  18.01%
+JavaScript        17m 20s   ███░░░░░░░░░░░░░░░░░░░░░░  10.79%
+Markdown          11m 27s   ██░░░░░░░░░░░░░░░░░░░░░░░  7.13%
 
 💼 Projects:
-Kapper Demo     43m 26s   ████████████░░░░░░░░░░░░░  46.25%
-PolarLearn-v2   42m 22s   ████████████░░░░░░░░░░░░░  45.11%
-Documents       5m 10s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.50%
-scate           2m 57s    █░░░░░░░░░░░░░░░░░░░░░░░░  3.14%
+Kapper Demo       43m 26s   ███████████░░░░░░░░░░░░░░  40.23%
+PolarLearn-v2     42m 22s   ██████████░░░░░░░░░░░░░░░  39.25%
+DesktopFloppa     8m 13s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.61%
+Documents         7m 10s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.64%
+better-snapchat   3m 49s    █░░░░░░░░░░░░░░░░░░░░░░░░  3.54%
 ```
 
 # 📊 GitHub Stats:
