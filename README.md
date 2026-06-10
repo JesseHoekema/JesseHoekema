@@ -16,21 +16,21 @@ If you want to have a site build by me [Click Here](https://jessehoekema.com/#co
 
 # 🕧 Coding Stats:
 
-> ⏱️ **Total this week:** 0 hrs 30 mins
+> ⏱️ **Total this week:** 0 hrs 32 mins
 
 ```text
 💾 Languages:
-unknown                 18m 24s   ████████████░░░░░░░░░░░░░  44.36%
-Markdown                11m 38s   ████████░░░░░░░░░░░░░░░░░  28.04%
-RPMSpec                 6m 47s    █████░░░░░░░░░░░░░░░░░░░░  16.35%
-Python                  4m 7s     ███░░░░░░░░░░░░░░░░░░░░░░  9.92%
-JavaScript              33s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.33%
+unknown                 20m 24s   ████████████░░░░░░░░░░░░░  46.91%
+Markdown                11m 38s   ███████░░░░░░░░░░░░░░░░░░  26.75%
+RPMSpec                 6m 47s    ████░░░░░░░░░░░░░░░░░░░░░  15.60%
+Python                  4m 7s     ███░░░░░░░░░░░░░░░░░░░░░░  9.47%
+JavaScript              33s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.26%
 
 💼 Projects:
-DesktopFloppa           15m 25s   ██████████████████░░░░░░░  71.59%
-Spotify deezload down   2m 18s    ███░░░░░░░░░░░░░░░░░░░░░░  10.68%
-jesse                   2m 0s     ███░░░░░░░░░░░░░░░░░░░░░░  9.29%
-better-snapchat         1m 49s    ███░░░░░░░░░░░░░░░░░░░░░░  8.44%
+DesktopFloppa           15m 25s   █████████████████░░░░░░░░  65.51%
+jesse                   4m 0s     █████░░░░░░░░░░░░░░░░░░░░  17.00%
+Spotify deezload down   2m 18s    ███░░░░░░░░░░░░░░░░░░░░░░  9.77%
+better-snapchat         1m 49s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.72%
 ```
 
 # 📊 GitHub Stats:
