@@ -16,12 +16,15 @@ If you want to have a site build by me [Click Here](https://jessehoekema.com/#co
 
 # 🕧 Coding Stats:
 
-> ⏱️ **Total this week:** 0 hrs 0 mins
+> ⏱️ **Total this week:** 0 hrs 5 mins
 
 ```text
 💾 Languages:
+TypeScript   1m 25s   █████████████░░░░░░░░░░░░  51.20%
+JavaScript   1m 21s   █████████████░░░░░░░░░░░░  48.80%
 
 💼 Projects:
+PolarLearn   2m 40s   █████████████████████████  100.00%
 ```
 
 # 📊 GitHub Stats:
