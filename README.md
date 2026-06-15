@@ -16,15 +16,12 @@ If you want to have a site build by me [Click Here](https://jessehoekema.com/#co
 
 # 🕧 Coding Stats:
 
-> ⏱️ **Total this week:** 0 hrs 6 mins
+> ⏱️ **Total this week:** 0 hrs 0 mins
 
 ```text
 💾 Languages:
-unknown                 4m 0s    █████████████████████████  99.59%
-Python                  1s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.41%
 
 💼 Projects:
-Spotify deezload down   2m 18s   █████████████████████████  100.00%
 ```
 
 # 📊 GitHub Stats:
