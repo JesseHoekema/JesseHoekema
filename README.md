@@ -16,22 +16,22 @@ If you want to have a site build by me [Click Here](https://jessehoekema.com/#co
 
 # 🕧 Coding Stats:
 
-> ⏱️ **Total this week:** 0 hrs 27 mins
+> ⏱️ **Total this week:** 0 hrs 25 mins
 
 ```text
 💾 Languages:
-unknown                   15m 32s   ████████████░░░░░░░░░░░░░  44.19%
-JavaScript                9m 15s    ███████░░░░░░░░░░░░░░░░░░  26.32%
-RGBDS Assembly            6m 6s     █████░░░░░░░░░░░░░░░░░░░░  17.35%
-Svelte                    2m 51s    ███░░░░░░░░░░░░░░░░░░░░░░  8.11%
-TypeScript                1m 25s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.03%
+unknown                   13m 32s   ███████████░░░░░░░░░░░░░░  40.82%
+JavaScript                9m 15s    ███████░░░░░░░░░░░░░░░░░░  27.90%
+RGBDS Assembly            6m 6s     █████░░░░░░░░░░░░░░░░░░░░  18.40%
+Svelte                    2m 51s    ███░░░░░░░░░░░░░░░░░░░░░░  8.60%
+TypeScript                1m 25s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.27%
 
 💼 Projects:
-MyOwnS                    9m 36s    ██████████░░░░░░░░░░░░░░░  39.86%
-littletinystorage         4m 25s    █████░░░░░░░░░░░░░░░░░░░░  18.34%
-littletinystorage-webui   3m 24s    ████░░░░░░░░░░░░░░░░░░░░░  14.12%
-PolarLearn                2m 40s    ███░░░░░░░░░░░░░░░░░░░░░░  11.07%
-Documents                 2m 0s     ███░░░░░░░░░░░░░░░░░░░░░░  8.30%
+MyOwnS                    9m 36s    ███████████░░░░░░░░░░░░░░  43.47%
+littletinystorage         4m 25s    █████░░░░░░░░░░░░░░░░░░░░  20.00%
+littletinystorage-webui   3m 24s    ████░░░░░░░░░░░░░░░░░░░░░  15.40%
+PolarLearn                2m 40s    ████░░░░░░░░░░░░░░░░░░░░░  12.08%
+Documents                 2m 0s     ███░░░░░░░░░░░░░░░░░░░░░░  9.06%
 ```
 
 # 📊 GitHub Stats:
