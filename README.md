@@ -16,22 +16,22 @@ If you want to have a site build by me [Click Here](https://jessehoekema.com/#co
 
 # 🕧 Coding Stats:
 
-> ⏱️ **Total this week:** 1 hrs 30 mins
+> ⏱️ **Total this week:** 1 hrs 52 mins
 
 ```text
 💾 Languages:
-unknown            46m 27s   █████████░░░░░░░░░░░░░░░░  33.46%
-JavaScript         33m 42s   ███████░░░░░░░░░░░░░░░░░░  24.28%
-HTML               22m 9s    ████░░░░░░░░░░░░░░░░░░░░░  15.96%
-Python             11m 59s   ███░░░░░░░░░░░░░░░░░░░░░░  8.63%
-JSON               8m 13s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.92%
+unknown            50m 34s   ████████░░░░░░░░░░░░░░░░░  28.90%
+JavaScript         41m 53s   ██████░░░░░░░░░░░░░░░░░░░  23.94%
+HTML               22m 9s    ████░░░░░░░░░░░░░░░░░░░░░  12.66%
+TypeScript         17m 43s   ███░░░░░░░░░░░░░░░░░░░░░░  10.13%
+Python             11m 59s   ██░░░░░░░░░░░░░░░░░░░░░░░  6.85%
 
 💼 Projects:
-NoThing            34m 30s   ███████████░░░░░░░░░░░░░░  40.64%
-DesktopFloppa-v2   23m 0s    ███████░░░░░░░░░░░░░░░░░░  27.10%
-poepmetthee2.0     12m 57s   ████░░░░░░░░░░░░░░░░░░░░░  15.26%
-MyOwnS             10m 26s   ████░░░░░░░░░░░░░░░░░░░░░  12.29%
-DesktopFloppa      4m 0s     ██░░░░░░░░░░░░░░░░░░░░░░░  4.71%
+NoThing            34m 30s   █████████░░░░░░░░░░░░░░░░  32.18%
+DesktopFloppa-v2   23m 0s    ██████░░░░░░░░░░░░░░░░░░░  21.46%
+pigeonslave        22m 19s   ██████░░░░░░░░░░░░░░░░░░░  20.82%
+poepmetthee2.0     12m 57s   ████░░░░░░░░░░░░░░░░░░░░░  12.08%
+MyOwnS             10m 26s   ███░░░░░░░░░░░░░░░░░░░░░░  9.73%
 ```
 
 # 📊 GitHub Stats:
