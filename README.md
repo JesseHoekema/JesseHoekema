@@ -16,21 +16,22 @@ If you want to have a site build by me [Click Here](https://jessehoekema.com/#co
 
 # 🕧 Coding Stats:
 
-> ⏱️ **Total this week:** 1 hrs 42 mins
+> ⏱️ **Total this week:** 2 hrs 17 mins
 
 ```text
 💾 Languages:
-JavaScript            41m 53s   ██████░░░░░░░░░░░░░░░░░░░  23.88%
-unknown               38m 9s    ██████░░░░░░░░░░░░░░░░░░░  21.75%
-Python                30m 15s   █████░░░░░░░░░░░░░░░░░░░░  17.25%
-HTML                  22m 9s    ████░░░░░░░░░░░░░░░░░░░░░  12.63%
-TypeScript            17m 43s   ███░░░░░░░░░░░░░░░░░░░░░░  10.10%
+unknown               1h 12m 23s   ████████░░░░░░░░░░░░░░░░░  31.49%
+Python                45m 8s       █████░░░░░░░░░░░░░░░░░░░░  19.63%
+JavaScript            41m 53s      █████░░░░░░░░░░░░░░░░░░░░  18.22%
+HTML                  24m 9s       ███░░░░░░░░░░░░░░░░░░░░░░  10.51%
+TypeScript            17m 43s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.71%
 
 💼 Projects:
-NoThing               39m 21s   ██████████░░░░░░░░░░░░░░░  37.75%
-LangzameSnakePython   29m 37s   ████████░░░░░░░░░░░░░░░░░  28.41%
-pigeonslave           22m 19s   ██████░░░░░░░░░░░░░░░░░░░  21.41%
-poepmetthee2.0        12m 57s   ████░░░░░░░░░░░░░░░░░░░░░  12.42%
+NoThing               39m 21s      ███████░░░░░░░░░░░░░░░░░░  27.26%
+LangzameSnakePython   29m 37s      ██████░░░░░░░░░░░░░░░░░░░  20.52%
+pigeonslave           22m 19s      ████░░░░░░░░░░░░░░░░░░░░░  15.46%
+xmlsite               17m 18s      ███░░░░░░░░░░░░░░░░░░░░░░  11.98%
+lyrion                15m 27s      ███░░░░░░░░░░░░░░░░░░░░░░  10.70%
 ```
 
 # 📊 GitHub Stats:
