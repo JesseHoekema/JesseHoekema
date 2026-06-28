@@ -16,22 +16,22 @@ If you want to have a site build by me [Click Here](https://jessehoekema.com/#co
 
 # 🕧 Coding Stats:
 
-> ⏱️ **Total this week:** 2 hrs 34 mins
+> ⏱️ **Total this week:** 2 hrs 48 mins
 
 ```text
 💾 Languages:
-unknown               1h 26m 30s   █████████░░░░░░░░░░░░░░░░  33.62%
-JavaScript            49m 2s       █████░░░░░░░░░░░░░░░░░░░░  19.06%
-Python                45m 8s       █████░░░░░░░░░░░░░░░░░░░░  17.54%
-HTML                  24m 9s       ███░░░░░░░░░░░░░░░░░░░░░░  9.39%
-TypeScript            23m 52s      ███░░░░░░░░░░░░░░░░░░░░░░  9.28%
+unknown               1h 35m 32s   █████████░░░░░░░░░░░░░░░░  32.31%
+Python                57m 31s      █████░░░░░░░░░░░░░░░░░░░░  19.45%
+JavaScript            49m 2s       █████░░░░░░░░░░░░░░░░░░░░  16.58%
+HTML                  24m 9s       ███░░░░░░░░░░░░░░░░░░░░░░  8.17%
+TypeScript            23m 52s      ███░░░░░░░░░░░░░░░░░░░░░░  8.07%
 
 💼 Projects:
-NoThing               39m 21s      ███████░░░░░░░░░░░░░░░░░░  24.16%
-LangzameSnakePython   29m 37s      █████░░░░░░░░░░░░░░░░░░░░  18.18%
-pigeonslave           22m 19s      ████░░░░░░░░░░░░░░░░░░░░░  13.70%
-lyrion                19m 27s      ███░░░░░░░░░░░░░░░░░░░░░░  11.94%
-xmlsite               17m 18s      ███░░░░░░░░░░░░░░░░░░░░░░  10.62%
+NoThing               39m 57s      ██████░░░░░░░░░░░░░░░░░░░  21.89%
+LangzameSnakePython   29m 38s      █████░░░░░░░░░░░░░░░░░░░░  16.24%
+pigeonslave           22m 54s      ████░░░░░░░░░░░░░░░░░░░░░  12.55%
+lyrion                19m 27s      ███░░░░░░░░░░░░░░░░░░░░░░  10.66%
+xmlsite               17m 22s      ███░░░░░░░░░░░░░░░░░░░░░░  9.52%
 ```
 
 # 📊 GitHub Stats:
