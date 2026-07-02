@@ -16,22 +16,22 @@ If you want to have a site build by me [Click Here](https://jessehoekema.com/#co
 
 # 🕧 Coding Stats:
 
-> ⏱️ **Total this week:** 4 hrs 31 mins
+> ⏱️ **Total this week:** 4 hrs 46 mins
 
 ```text
 💾 Languages:
-TypeScript            2h 7m 10s    ███████░░░░░░░░░░░░░░░░░░  25.85%
-unknown               1h 55m 47s   ██████░░░░░░░░░░░░░░░░░░░  23.54%
-Python                1h 10m 9s    ████░░░░░░░░░░░░░░░░░░░░░  14.26%
-CSS                   55m 7s       ███░░░░░░░░░░░░░░░░░░░░░░  11.21%
-JavaScript            45m 23s      ███░░░░░░░░░░░░░░░░░░░░░░  9.23%
+TypeScript            2h 7m 10s    ███████░░░░░░░░░░░░░░░░░░  24.82%
+unknown               2h 1m 17s    ██████░░░░░░░░░░░░░░░░░░░  23.67%
+Python                1h 14m 10s   ████░░░░░░░░░░░░░░░░░░░░░  14.47%
+CSS                   55m 7s       ███░░░░░░░░░░░░░░░░░░░░░░  10.76%
+JavaScript            45m 23s      ███░░░░░░░░░░░░░░░░░░░░░░  8.86%
 
 💼 Projects:
-my-react-app          1h 46m 50s   █████████░░░░░░░░░░░░░░░░  34.16%
-LangzameSnakePython   27m 38s      ███░░░░░░░░░░░░░░░░░░░░░░  8.84%
-dist                  23m 23s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.48%
-lyrion                19m 27s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.22%
-xmlsite               17m 22s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.55%
+my-react-app          1h 46m 50s   █████████░░░░░░░░░░░░░░░░  32.63%
+LangzameSnakePython   27m 38s      ███░░░░░░░░░░░░░░░░░░░░░░  8.44%
+dist                  23m 23s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.14%
+lyrion                19m 27s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.94%
+xmlsite               17m 22s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.30%
 ```
 
 # 📊 GitHub Stats:
