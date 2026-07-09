@@ -16,22 +16,22 @@ If you want to have a site build by me [Click Here](https://jessehoekema.com/#co
 
 # 🕧 Coding Stats:
 
-> ⏱️ **Total this week:** 6 hrs 20 mins
+> ⏱️ **Total this week:** 4 hrs 26 mins
 
 ```text
 💾 Languages:
-TypeScript     5h 3m 51s    ██████████████░░░░░░░░░░░  53.84%
-unknown        1h 14m 57s   ████░░░░░░░░░░░░░░░░░░░░░  13.28%
-CSS            1h 8m 25s    ████░░░░░░░░░░░░░░░░░░░░░  12.12%
-JavaScript     43m 27s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.70%
-JSON           38m 9s       ██░░░░░░░░░░░░░░░░░░░░░░░  6.76%
+TypeScript            3h 21m 24s   ██████████████░░░░░░░░░░░  53.93%
+unknown               58m 45s      ████░░░░░░░░░░░░░░░░░░░░░  15.73%
+JavaScript            28m 22s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.60%
+JSON                  28m 15s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.56%
+CSS                   21m 7s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.65%
 
 💼 Projects:
-edit20         2h 55m 43s   ███████████░░░░░░░░░░░░░░  42.34%
-my-react-app   1h 36m 22s   ██████░░░░░░░░░░░░░░░░░░░  23.22%
-dist           31m 44s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.65%
-pigeonslave    24m 48s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.98%
-Documents      23m 26s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.65%
+edit20                2h 55m 43s   ████████████████░░░░░░░░░  63.52%
+pigeonslave           24m 48s      ███░░░░░░░░░░░░░░░░░░░░░░  8.96%
+claude dikke teiten   17m 20s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.27%
+Documents             14m 51s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.37%
+face regonizion       14m 40s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.30%
 ```
 
 # 📊 GitHub Stats:
