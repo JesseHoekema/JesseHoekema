@@ -16,19 +16,12 @@ If you want to have a site build by me [Click Here](https://jessehoekema.com/#co
 
 # 🕧 Coding Stats:
 
-> ⏱️ **Total this week:** 1 hrs 8 mins
+> ⏱️ **Total this week:** 0 hrs 0 mins
 
 ```text
 💾 Languages:
-TypeScript    1h 0m 38s   █████████████████░░░░░░░░  65.77%
-unknown       18m 2s      █████░░░░░░░░░░░░░░░░░░░░  19.56%
-JavaScript    11m 31s     ████░░░░░░░░░░░░░░░░░░░░░  12.49%
-JSON          2m 0s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.17%
 
 💼 Projects:
-edit20        39m 43s     ██████████████░░░░░░░░░░░  55.87%
-pigeonslave   24m 48s     █████████░░░░░░░░░░░░░░░░  34.89%
-jesse         6m 34s      ███░░░░░░░░░░░░░░░░░░░░░░  9.24%
 ```
 
 # 📊 GitHub Stats:
