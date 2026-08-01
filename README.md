@@ -16,22 +16,22 @@ If you want to have a site build by me [Click Here](https://jessehoekema.com/#co
 
 # 🕧 Coding Stats:
 
-> ⏱️ **Total this week:** 2 hrs 25 mins
+> ⏱️ **Total this week:** 2 hrs 30 mins
 
 ```text
 💾 Languages:
-unknown           1h 30m 2s   █████████████░░░░░░░░░░░░  48.32%
-TypeScript        51m 31s     ███████░░░░░░░░░░░░░░░░░░  27.65%
-PHP               19m 29s     ███░░░░░░░░░░░░░░░░░░░░░░  10.46%
-HTML              13m 50s     ██░░░░░░░░░░░░░░░░░░░░░░░  7.42%
-JavaScript        9m 28s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.08%
+unknown           1h 37m 8s   █████████████░░░░░░░░░░░░  49.96%
+TypeScript        51m 31s     ███████░░░░░░░░░░░░░░░░░░  26.50%
+PHP               19m 29s     ███░░░░░░░░░░░░░░░░░░░░░░  10.02%
+HTML              14m 42s     ██░░░░░░░░░░░░░░░░░░░░░░░  7.56%
+JavaScript        9m 28s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.87%
 
 💼 Projects:
-jesse             35m 10s     ███████░░░░░░░░░░░░░░░░░░  25.00%
-pigeonslave       34m 44s     ███████░░░░░░░░░░░░░░░░░░  24.69%
-laravellivewire   26m 29s     █████░░░░░░░░░░░░░░░░░░░░  18.82%
-edit20            16m 49s     ███░░░░░░░░░░░░░░░░░░░░░░  11.95%
-JHWERK Time       14m 44s     ███░░░░░░░░░░░░░░░░░░░░░░  10.47%
+jesse             39m 10s     ███████░░░░░░░░░░░░░░░░░░  26.02%
+pigeonslave       34m 44s     ██████░░░░░░░░░░░░░░░░░░░  23.08%
+laravellivewire   26m 29s     █████░░░░░░░░░░░░░░░░░░░░  17.59%
+edit20            16m 49s     ███░░░░░░░░░░░░░░░░░░░░░░  11.17%
+JHWERK Time       14m 44s     ███░░░░░░░░░░░░░░░░░░░░░░  9.79%
 ```
 
 # 📊 GitHub Stats:
