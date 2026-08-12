@@ -16,21 +16,17 @@ If you want to have a site build by me [Click Here](https://jessehoekema.com/#co
 
 # 🕧 Coding Stats:
 
-> ⏱️ **Total this week:** 0 hrs 43 mins
+> ⏱️ **Total this week:** 0 hrs 20 mins
 
 ```text
 💾 Languages:
-unknown      22m 24s   ████████████░░░░░░░░░░░░░  45.96%
-TypeScript   14m 26s   ████████░░░░░░░░░░░░░░░░░  29.62%
-JavaScript   11m 52s   ███████░░░░░░░░░░░░░░░░░░  24.35%
-Python       2s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.07%
+unknown      16m 24s   █████████████████████████  99.80%
+Python       2s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.20%
 
 💼 Projects:
-pprp         15m 12s   ███████████░░░░░░░░░░░░░░  42.66%
-jesse        14m 24s   ███████████░░░░░░░░░░░░░░  40.41%
-cc2538-bsl   4m 0s     ███░░░░░░░░░░░░░░░░░░░░░░  11.23%
-web          2m 0s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.61%
-ska          2s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.09%
+jesse        10m 24s   ███████████████████░░░░░░  72.06%
+cc2538-bsl   4m 0s     ███████░░░░░░░░░░░░░░░░░░  27.71%
+ska          2s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.23%
 ```
 
 # 📊 GitHub Stats:
