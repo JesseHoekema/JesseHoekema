@@ -16,22 +16,22 @@ If you want to have a site build by me [Click Here](https://jessehoekema.com/#co
 
 # 🕧 Coding Stats:
 
-> ⏱️ **Total this week:** 5 hrs 13 mins
+> ⏱️ **Total this week:** 5 hrs 9 mins
 
 ```text
 💾 Languages:
-unknown         3h 19m 38s   ██████████░░░░░░░░░░░░░░░  37.14%
-Svelte          1h 54m 45s   ██████░░░░░░░░░░░░░░░░░░░  21.35%
-TypeScript      1h 38m 0s    █████░░░░░░░░░░░░░░░░░░░░  18.23%
-Markdown        38m 27s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.15%
-Shell           35m 15s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.56%
+unknown         3h 15m 38s   ██████████░░░░░░░░░░░░░░░  36.67%
+Svelte          1h 54m 45s   ██████░░░░░░░░░░░░░░░░░░░  21.51%
+TypeScript      1h 38m 0s    █████░░░░░░░░░░░░░░░░░░░░  18.37%
+Markdown        38m 27s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.21%
+Shell           35m 15s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.61%
 
 💼 Projects:
-picture-frame   4h 1m 3s     ██████████████████░░░░░░░  70.63%
-jesse           36m 52s      ███░░░░░░░░░░░░░░░░░░░░░░  10.80%
-lumen           22m 31s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.60%
-Rust Browser    11m 1s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.23%
-routes          10m 36s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.11%
+picture-frame   4h 1m 3s     ██████████████████░░░░░░░  71.47%
+jesse           32m 52s      ███░░░░░░░░░░░░░░░░░░░░░░  9.75%
+lumen           22m 31s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.68%
+Rust Browser    11m 1s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.27%
+routes          10m 36s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.14%
 ```
 
 # 📊 GitHub Stats:
