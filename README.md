@@ -16,22 +16,22 @@ If you want to have a site build by me [Click Here](https://jessehoekema.com/#co
 
 # 🕧 Coding Stats:
 
-> ⏱️ **Total this week:** 3 hrs 44 mins
+> ⏱️ **Total this week:** 3 hrs 48 mins
 
 ```text
 💾 Languages:
-unknown         2h 28m 33s   ███████████░░░░░░░░░░░░░░  40.01%
-Svelte          1h 3m 22s    █████░░░░░░░░░░░░░░░░░░░░  17.07%
-TypeScript      47m 51s      ████░░░░░░░░░░░░░░░░░░░░░  12.89%
-JavaScript      27m 19s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.36%
-Markdown        21m 16s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.73%
+unknown         2h 31m 49s   ███████████░░░░░░░░░░░░░░  40.53%
+Svelte          1h 3m 22s    █████░░░░░░░░░░░░░░░░░░░░  16.92%
+TypeScript      47m 51s      ████░░░░░░░░░░░░░░░░░░░░░  12.78%
+JavaScript      27m 19s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.29%
+Markdown        21m 16s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.68%
 
 💼 Projects:
-web             1h 58m 21s   █████████████░░░░░░░░░░░░  48.32%
-planban-v2      39m 1s       ████░░░░░░░░░░░░░░░░░░░░░  15.93%
-picture-frame   32m 4s       ████░░░░░░░░░░░░░░░░░░░░░  13.09%
-drumapp         24m 9s       ███░░░░░░░░░░░░░░░░░░░░░░  9.86%
-jesse           16m 55s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.91%
+web             1h 58m 21s   ████████████░░░░░░░░░░░░░  47.01%
+planban-v2      39m 1s       ████░░░░░░░░░░░░░░░░░░░░░  15.50%
+picture-frame   32m 4s       ████░░░░░░░░░░░░░░░░░░░░░  12.74%
+drumapp         24m 9s       ███░░░░░░░░░░░░░░░░░░░░░░  9.59%
+jesse           21m 44s      ███░░░░░░░░░░░░░░░░░░░░░░  8.63%
 ```
 
 # 📊 GitHub Stats:
