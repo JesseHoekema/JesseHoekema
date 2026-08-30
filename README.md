@@ -16,22 +16,22 @@ If you want to have a site build by me [Click Here](https://jessehoekema.com/#co
 
 # 🕧 Coding Stats:
 
-> ⏱️ **Total this week:** 5 hrs 56 mins
+> ⏱️ **Total this week:** 7 hrs 1 mins
 
 ```text
 💾 Languages:
-unknown         3h 22m 47s   ██████████░░░░░░░░░░░░░░░  36.86%
-TypeScript      1h 35m 14s   █████░░░░░░░░░░░░░░░░░░░░  17.31%
-Svelte          1h 31m 10s   █████░░░░░░░░░░░░░░░░░░░░  16.57%
-Shell           55m 50s      ███░░░░░░░░░░░░░░░░░░░░░░  10.15%
-Markdown        36m 27s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.63%
+unknown         4h 15m 43s   ██████████░░░░░░░░░░░░░░░  40.00%
+Svelte          1h 48m 42s   █████░░░░░░░░░░░░░░░░░░░░  17.00%
+TypeScript      1h 39m 14s   ████░░░░░░░░░░░░░░░░░░░░░  15.52%
+Shell           55m 50s      ███░░░░░░░░░░░░░░░░░░░░░░  8.73%
+Markdown        36m 27s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.70%
 
 💼 Projects:
-web             2h 29m 27s   ██████████░░░░░░░░░░░░░░░  38.58%
-JHOS            1h 21m 4s    ██████░░░░░░░░░░░░░░░░░░░  20.93%
-planban-v2      1h 0m 43s    ████░░░░░░░░░░░░░░░░░░░░░  15.68%
-pigeonslave     40m 56s      ███░░░░░░░░░░░░░░░░░░░░░░  10.57%
-picture-frame   23m 51s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.16%
+web             2h 48m 51s   ██████████░░░░░░░░░░░░░░░  37.09%
+planban-v2      1h 21m 12s   █████░░░░░░░░░░░░░░░░░░░░  17.84%
+JHOS            1h 21m 4s    █████░░░░░░░░░░░░░░░░░░░░  17.81%
+pigeonslave     40m 56s      ███░░░░░░░░░░░░░░░░░░░░░░  8.99%
+picture-frame   23m 51s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.24%
 ```
 
 # 📊 GitHub Stats:
