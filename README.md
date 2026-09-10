@@ -16,22 +16,22 @@ If you want to have a site build by me [Click Here](https://jessehoekema.com/#co
 
 # 🕧 Coding Stats:
 
-> ⏱️ **Total this week:** 4 hrs 19 mins
+> ⏱️ **Total this week:** 4 hrs 31 mins
 
 ```text
 💾 Languages:
-unknown              2h 39m 55s   ██████████░░░░░░░░░░░░░░░  37.17%
-Svelte               1h 30m 22s   ██████░░░░░░░░░░░░░░░░░░░  21.00%
-TypeScript           1h 7m 13s    ████░░░░░░░░░░░░░░░░░░░░░  15.62%
-JSON                 26m 28s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.15%
-JavaScript           15m 20s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.56%
+unknown              2h 50m 20s   ██████████░░░░░░░░░░░░░░░  38.13%
+Svelte               1h 32m 22s   ██████░░░░░░░░░░░░░░░░░░░  20.68%
+TypeScript           1h 7m 13s    ████░░░░░░░░░░░░░░░░░░░░░  15.05%
+JSON                 28m 28s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.37%
+JavaScript           15m 20s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.43%
 
 💼 Projects:
-pigeonslave          2h 18m 25s   █████████████░░░░░░░░░░░░  50.49%
-web                  1h 18m 23s   ████████░░░░░░░░░░░░░░░░░  28.59%
-planban-v2           28m 21s      ███░░░░░░░░░░░░░░░░░░░░░░  10.34%
-site hallmark test   13m 19s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.86%
-Background Remover   7m 19s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.67%
+pigeonslave          2h 20m 25s   █████████████░░░░░░░░░░░░  48.98%
+web                  1h 20m 23s   ████████░░░░░░░░░░░░░░░░░  28.04%
+planban-v2           28m 21s      ███░░░░░░░░░░░░░░░░░░░░░░  9.89%
+site hallmark test   13m 19s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.65%
+jesse                11m 38s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.06%
 ```
 
 # 📊 GitHub Stats:
