@@ -16,22 +16,22 @@ If you want to have a site build by me [Click Here](https://jessehoekema.com/#co
 
 # 🕧 Coding Stats:
 
-> ⏱️ **Total this week:** 2 hrs 31 mins
+> ⏱️ **Total this week:** 1 hrs 32 mins
 
 ```text
 💾 Languages:
-unknown                1h 37m 35s   ███████████░░░░░░░░░░░░░░  43.58%
-Svelte                 50m 5s       ██████░░░░░░░░░░░░░░░░░░░  22.37%
-TypeScript             30m 54s      ████░░░░░░░░░░░░░░░░░░░░░  13.80%
-Python                 14m 52s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.64%
-JSON                   11m 7s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.96%
+unknown                58m 55s   ███████████░░░░░░░░░░░░░░  41.98%
+Svelte                 28m 36s   ██████░░░░░░░░░░░░░░░░░░░  20.38%
+TypeScript             22m 35s   █████░░░░░░░░░░░░░░░░░░░░  16.09%
+Python                 14m 52s   ███░░░░░░░░░░░░░░░░░░░░░░  10.59%
+Markdown               4m 28s    █░░░░░░░░░░░░░░░░░░░░░░░░  3.18%
 
 💼 Projects:
-pigeonslave            1h 5m 29s    ███████████░░░░░░░░░░░░░░  42.55%
-web                    44m 27s      ████████░░░░░░░░░░░░░░░░░  28.89%
-weer een faking test   23m 44s      ████░░░░░░░░░░░░░░░░░░░░░  15.42%
-planban-v2             10m 0s       ██░░░░░░░░░░░░░░░░░░░░░░░  6.50%
-Background Remover     7m 19s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.75%
+web                    36m 7s    ██████████░░░░░░░░░░░░░░░  39.17%
+weer een faking test   23m 44s   ███████░░░░░░░░░░░░░░░░░░  25.74%
+pigeonslave            16m 8s    █████░░░░░░░░░░░░░░░░░░░░  17.50%
+Background Remover     7m 19s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.94%
+planban-v2             6m 0s     ██░░░░░░░░░░░░░░░░░░░░░░░  6.51%
 ```
 
 # 📊 GitHub Stats:
