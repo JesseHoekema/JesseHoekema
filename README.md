@@ -16,22 +16,22 @@ If you want to have a site build by me [Click Here](https://jessehoekema.com/#co
 
 # 🕧 Coding Stats:
 
-> ⏱️ **Total this week:** 0 hrs 46 mins
+> ⏱️ **Total this week:** 0 hrs 52 mins
 
 ```text
 💾 Languages:
-unknown       27m 4s    ████████████░░░░░░░░░░░░░  44.81%
-Svelte        16m 11s   ███████░░░░░░░░░░░░░░░░░░  26.79%
-TypeScript    10m 35s   █████░░░░░░░░░░░░░░░░░░░░  17.52%
-JavaScript    4m 0s     ██░░░░░░░░░░░░░░░░░░░░░░░  6.62%
-Shell         2m 13s    █░░░░░░░░░░░░░░░░░░░░░░░░  3.67%
+unknown       31m 49s   ████████████░░░░░░░░░░░░░  44.55%
+Svelte        20m 27s   ████████░░░░░░░░░░░░░░░░░  28.63%
+TypeScript    12m 35s   █████░░░░░░░░░░░░░░░░░░░░  17.62%
+JavaScript    4m 0s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.60%
+Shell         2m 13s    █░░░░░░░░░░░░░░░░░░░░░░░░  3.10%
 
 💼 Projects:
-web           34m 33s   █████████████████████░░░░  80.38%
-pigeonslave   4m 35s    ███░░░░░░░░░░░░░░░░░░░░░░  10.66%
-jesse         2m 44s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.36%
-better-auth   41s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.59%
-planban-v2    26s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.01%
+web           39m 25s   ████████████████████░░░░░  78.94%
+pigeonslave   4m 35s    ███░░░░░░░░░░░░░░░░░░░░░░  9.18%
+jesse         2m 44s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.47%
+planban-v2    2m 31s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.04%
+better-auth   41s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.37%
 ```
 
 # 📊 GitHub Stats:
