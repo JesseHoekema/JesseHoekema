@@ -16,22 +16,22 @@ If you want to have a site build by me [Click Here](https://jessehoekema.com/#co
 
 # 🕧 Coding Stats:
 
-> ⏱️ **Total this week:** 2 hrs 40 mins
+> ⏱️ **Total this week:** 2 hrs 42 mins
 
 ```text
 💾 Languages:
-unknown                                    1h 44m 35s   ████████████░░░░░░░░░░░░░  44.36%
-Svelte                                     1h 41m 41s   ███████████░░░░░░░░░░░░░░  43.13%
-TypeScript                                 16m 35s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.03%
-JavaScript                                 8m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  3.39%
-Ignore List                                2m 14s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.95%
+unknown                                    1h 44m 35s   ███████████░░░░░░░░░░░░░░  43.89%
+Svelte                                     1h 44m 13s   ███████████░░░░░░░░░░░░░░  43.73%
+TypeScript                                 16m 35s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.96%
+JavaScript                                 8m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  3.36%
+Ignore List                                2m 14s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.94%
 
 💼 Projects:
-web                                        2h 20m 49s   ██████████████████████░░░  84.10%
-planban-v2                                 16m 16s      ███░░░░░░░░░░░░░░░░░░░░░░  9.72%
-pigeonslave                                4m 35s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.74%
-jesse                                      2m 44s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.63%
-chrome-plugin-chrome-openai-bundled-maak   50s          █░░░░░░░░░░░░░░░░░░░░░░░░  0.50%
+web                                        2h 23m 21s   ██████████████████████░░░  84.34%
+planban-v2                                 16m 16s      ███░░░░░░░░░░░░░░░░░░░░░░  9.57%
+pigeonslave                                4m 35s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.70%
+jesse                                      2m 44s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.61%
+chrome-plugin-chrome-openai-bundled-maak   50s          █░░░░░░░░░░░░░░░░░░░░░░░░  0.49%
 ```
 
 # 📊 GitHub Stats:
