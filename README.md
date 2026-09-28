@@ -16,22 +16,22 @@ If you want to have a site build by me [Click Here](https://jessehoekema.com/#co
 
 # 🕧 Coding Stats:
 
-> ⏱️ **Total this week:** 2 hrs 32 mins
+> ⏱️ **Total this week:** 3 hrs 26 mins
 
 ```text
 💾 Languages:
-unknown                                      1h 48m 15s   █████████████░░░░░░░░░░░░  48.42%
-Svelte                                       1h 46m 57s   ████████████░░░░░░░░░░░░░  47.84%
-JavaScript                                   4m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.79%
-Ignore List                                  2m 14s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.00%
-TypeScript                                   2m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.89%
+unknown                                               2h 34m 47s   █████████████░░░░░░░░░░░░  51.52%
+Svelte                                                2h 9m 12s    ███████████░░░░░░░░░░░░░░  43.00%
+TypeScript                                            8m 7s        █░░░░░░░░░░░░░░░░░░░░░░░░  2.70%
+JavaScript                                            6m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  2.00%
+Ignore List                                           2m 14s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.74%
 
 💼 Projects:
-web                                          2h 24m 8s    ███████████████████████░░  89.93%
-planban-v2                                   13m 45s      ███░░░░░░░░░░░░░░░░░░░░░░  8.58%
-chrome-plugin-chrome-openai-bundled-maak     50s          █░░░░░░░░░░░░░░░░░░░░░░░░  0.52%
-ma                                           50s          █░░░░░░░░░░░░░░░░░░░░░░░░  0.52%
-chrome-plugin-chrome-openai-bundled-maak-2   41s          █░░░░░░░░░░░░░░░░░░░░░░░░  0.43%
+web                                                   2h 55m 24s   █████████████████████░░░░  82.48%
+planban-v2                                            15m 45s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.41%
+digitale-leeromgeving-plugin-browser-openai-bundled   13m 39s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.42%
+w                                                     5m 28s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.57%
+chrome-plugin-chrome-openai-bundled-maak              50s          █░░░░░░░░░░░░░░░░░░░░░░░░  0.39%
 ```
 
 # 📊 GitHub Stats:
