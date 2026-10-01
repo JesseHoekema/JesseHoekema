@@ -16,21 +16,21 @@ If you want to have a site build by me [Click Here](https://jessehoekema.com/#co
 
 # 🕧 Coding Stats:
 
-> ⏱️ **Total this week:** 2 hrs 17 mins
+> ⏱️ **Total this week:** 2 hrs 12 mins
 
 ```text
 💾 Languages:
-unknown                                               1h 52m 59s   ███████████████░░░░░░░░░░  58.29%
-Svelte                                                1h 12m 43s   ██████████░░░░░░░░░░░░░░░  37.52%
-TypeScript                                            6m 7s        █░░░░░░░░░░░░░░░░░░░░░░░░  3.16%
-JavaScript                                            2m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.03%
+unknown                                               1h 58m 1s    ████████████████░░░░░░░░░  63.51%
+Svelte                                                53m 53s      ████████░░░░░░░░░░░░░░░░░  29.00%
+TypeScript                                            13m 16s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.14%
+Markdown                                              39s          █░░░░░░░░░░░░░░░░░░░░░░░░  0.35%
 
 💼 Projects:
-web                                                   1h 46m 25s   █████████████████████░░░░  80.67%
-digitale-leeromgeving-plugin-browser-openai-bundled   13m 39s      ███░░░░░░░░░░░░░░░░░░░░░░  10.35%
-w                                                     5m 28s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.14%
-planban-v2                                            4m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  3.03%
-chrome-plugin-chrome-openai-bundled-maak              50s          █░░░░░░░░░░░░░░░░░░░░░░░░  0.63%
+web                                                   1h 46m 18s   ████████████████████░░░░░  78.02%
+digitale-leeromgeving-plugin-browser-openai-bundled   13m 39s      ███░░░░░░░░░░░░░░░░░░░░░░  10.02%
+planban-v2                                            10m 48s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.93%
+w                                                     5m 28s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.01%
+scratch-2026-09-27-95210f                             2s           █░░░░░░░░░░░░░░░░░░░░░░░░  0.02%
 ```
 
 # 📊 GitHub Stats:
