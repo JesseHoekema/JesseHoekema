@@ -16,22 +16,22 @@ If you want to have a site build by me [Click Here](https://jessehoekema.com/#co
 
 # 🕧 Coding Stats:
 
-> ⏱️ **Total this week:** 2 hrs 34 mins
+> ⏱️ **Total this week:** 2 hrs 40 mins
 
 ```text
 💾 Languages:
-unknown                                               2h 13m 27s   ████████████████░░░░░░░░░  63.86%
-Svelte                                                47m 34s      ██████░░░░░░░░░░░░░░░░░░░  22.76%
-TypeScript                                            21m 32s      ███░░░░░░░░░░░░░░░░░░░░░░  10.30%
-JavaScript                                            5m 46s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.76%
-Markdown                                              39s          █░░░░░░░░░░░░░░░░░░░░░░░░  0.31%
+unknown                                               2h 17m 27s   ████████████████░░░░░░░░░  62.96%
+Svelte                                                47m 34s      ██████░░░░░░░░░░░░░░░░░░░  21.79%
+TypeScript                                            26m 52s      ████░░░░░░░░░░░░░░░░░░░░░  12.31%
+JavaScript                                            5m 46s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.64%
+Markdown                                              39s          █░░░░░░░░░░░░░░░░░░░░░░░░  0.30%
 
 💼 Projects:
-web                                                   1h 50m 18s   ██████████████████░░░░░░░  70.37%
-digitale-leeromgeving-plugin-browser-openai-bundled   13m 39s      ███░░░░░░░░░░░░░░░░░░░░░░  8.71%
-planban-v2                                            13m 25s      ███░░░░░░░░░░░░░░░░░░░░░░  8.56%
-c                                                     6m 57s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.43%
-i-w                                                   6m 57s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.43%
+web                                                   1h 50m 18s   ██████████████████░░░░░░░  68.79%
+digitale-leeromgeving-plugin-browser-openai-bundled   13m 39s      ███░░░░░░░░░░░░░░░░░░░░░░  8.51%
+planban-v2                                            13m 25s      ███░░░░░░░░░░░░░░░░░░░░░░  8.37%
+c                                                     6m 57s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.33%
+i-w                                                   6m 57s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.33%
 ```
 
 # 📊 GitHub Stats:
