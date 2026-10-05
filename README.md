@@ -16,22 +16,22 @@ If you want to have a site build by me [Click Here](https://jessehoekema.com/#co
 
 # 🕧 Coding Stats:
 
-> ⏱️ **Total this week:** 2 hrs 40 mins
+> ⏱️ **Total this week:** 1 hrs 57 mins
 
 ```text
 💾 Languages:
-unknown                                               2h 17m 27s   ████████████████░░░░░░░░░  62.96%
-Svelte                                                47m 34s      ██████░░░░░░░░░░░░░░░░░░░  21.79%
-TypeScript                                            26m 52s      ████░░░░░░░░░░░░░░░░░░░░░  12.31%
-JavaScript                                            5m 46s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.64%
-Markdown                                              39s          █░░░░░░░░░░░░░░░░░░░░░░░░  0.30%
+unknown       1h 34m 56s   ███████████████░░░░░░░░░░  59.79%
+TypeScript    29m 50s      █████░░░░░░░░░░░░░░░░░░░░  18.79%
+Svelte        29m 35s      █████░░░░░░░░░░░░░░░░░░░░  18.63%
+JavaScript    3m 46s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.37%
+Markdown      39s          █░░░░░░░░░░░░░░░░░░░░░░░░  0.41%
 
 💼 Projects:
-web                                                   1h 50m 18s   ██████████████████░░░░░░░  68.79%
-digitale-leeromgeving-plugin-browser-openai-bundled   13m 39s      ███░░░░░░░░░░░░░░░░░░░░░░  8.51%
-planban-v2                                            13m 25s      ███░░░░░░░░░░░░░░░░░░░░░░  8.37%
-c                                                     6m 57s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.33%
-i-w                                                   6m 57s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.33%
+web           1h 19m 2s    █████████████████░░░░░░░░  66.12%
+pigeonslave   15m 11s      ████░░░░░░░░░░░░░░░░░░░░░  12.70%
+planban-v2    11m 25s      ███░░░░░░░░░░░░░░░░░░░░░░  9.55%
+c             6m 57s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.81%
+i-w           6m 57s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.81%
 ```
 
 # 📊 GitHub Stats:
