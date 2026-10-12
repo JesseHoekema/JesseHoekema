@@ -16,21 +16,21 @@ If you want to have a site build by me [Click Here](https://jessehoekema.com/#co
 
 # 🕧 Coding Stats:
 
-> ⏱️ **Total this week:** 0 hrs 46 mins
+> ⏱️ **Total this week:** 0 hrs 58 mins
 
 ```text
 💾 Languages:
-unknown                                      34m 33s   ██████████████░░░░░░░░░░░  55.13%
-TypeScript                                   14m 35s   ██████░░░░░░░░░░░░░░░░░░░  23.27%
-Python                                       9m 15s    ████░░░░░░░░░░░░░░░░░░░░░  14.76%
-Svelte                                       4m 17s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.84%
+unknown                                      45m 52s   ████████████████░░░░░░░░░  62.00%
+TypeScript                                   14m 35s   █████░░░░░░░░░░░░░░░░░░░░  19.71%
+Python                                       9m 15s    ████░░░░░░░░░░░░░░░░░░░░░  12.50%
+Svelte                                       4m 17s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.79%
 
 💼 Projects:
-pigeonslave                                  15m 11s   █████████░░░░░░░░░░░░░░░░  35.54%
-Rubix Cube Solver                            13m 31s   ████████░░░░░░░░░░░░░░░░░  31.64%
-jesse                                        11m 19s   ███████░░░░░░░░░░░░░░░░░░  26.49%
-web                                          2m 32s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.93%
-chrome-plugin-chrome-openai-bundled-maak-2   10s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.39%
+jesse                                        22m 38s   ███████████░░░░░░░░░░░░░░  41.89%
+pigeonslave                                  15m 11s   ████████░░░░░░░░░░░░░░░░░  28.10%
+Rubix Cube Solver                            13m 31s   ███████░░░░░░░░░░░░░░░░░░  25.02%
+web                                          2m 32s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.69%
+chrome-plugin-chrome-openai-bundled-maak-2   10s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.31%
 ```
 
 # 📊 GitHub Stats:
