@@ -16,21 +16,19 @@ If you want to have a site build by me [Click Here](https://jessehoekema.com/#co
 
 # 🕧 Coding Stats:
 
-> ⏱️ **Total this week:** 0 hrs 58 mins
+> ⏱️ **Total this week:** 0 hrs 40 mins
 
 ```text
 💾 Languages:
-unknown                                      45m 52s   ████████████████░░░░░░░░░  62.00%
-TypeScript                                   14m 35s   █████░░░░░░░░░░░░░░░░░░░░  19.71%
-Python                                       9m 15s    ████░░░░░░░░░░░░░░░░░░░░░  12.50%
-Svelte                                       4m 17s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.79%
+unknown                                      37m 52s   █████████████████████░░░░  80.08%
+Python                                       9m 15s    █████░░░░░░░░░░░░░░░░░░░░  19.56%
+TypeScript                                   10s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.35%
 
 💼 Projects:
-jesse                                        22m 38s   ███████████░░░░░░░░░░░░░░  41.89%
-pigeonslave                                  15m 11s   ████████░░░░░░░░░░░░░░░░░  28.10%
-Rubix Cube Solver                            13m 31s   ███████░░░░░░░░░░░░░░░░░░  25.02%
-web                                          2m 32s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.69%
-chrome-plugin-chrome-openai-bundled-maak-2   10s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.31%
+jesse                                        20m 38s   ██████████████░░░░░░░░░░░  55.99%
+Rubix Cube Solver                            13m 31s   ██████████░░░░░░░░░░░░░░░  36.68%
+web                                          2m 32s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.87%
+chrome-plugin-chrome-openai-bundled-maak-2   10s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.45%
 ```
 
 # 📊 GitHub Stats:
