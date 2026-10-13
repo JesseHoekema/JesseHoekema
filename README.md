@@ -16,19 +16,20 @@ If you want to have a site build by me [Click Here](https://jessehoekema.com/#co
 
 # 🕧 Coding Stats:
 
-> ⏱️ **Total this week:** 0 hrs 40 mins
+> ⏱️ **Total this week:** 0 hrs 53 mins
 
 ```text
 💾 Languages:
-unknown                                      37m 52s   █████████████████████░░░░  80.08%
-Python                                       9m 15s    █████░░░░░░░░░░░░░░░░░░░░  19.56%
-TypeScript                                   10s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.35%
+unknown                                      47m 44s   ███████████████████░░░░░░  74.99%
+Python                                       9m 21s    ████░░░░░░░░░░░░░░░░░░░░░  14.69%
+TypeScript                                   6m 34s    ███░░░░░░░░░░░░░░░░░░░░░░  10.32%
 
 💼 Projects:
-jesse                                        20m 38s   ██████████████░░░░░░░░░░░  55.99%
-Rubix Cube Solver                            13m 31s   ██████████░░░░░░░░░░░░░░░  36.68%
-web                                          2m 32s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.87%
-chrome-plugin-chrome-openai-bundled-maak-2   10s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.45%
+jesse                                        20m 38s   ███████████░░░░░░░░░░░░░░  40.13%
+web                                          15m 0s    ████████░░░░░░░░░░░░░░░░░  29.17%
+Rubix Cube Solver                            13m 37s   ███████░░░░░░░░░░░░░░░░░░  26.48%
+planban-v2                                   2m 0s     █░░░░░░░░░░░░░░░░░░░░░░░░  3.89%
+chrome-plugin-chrome-openai-bundled-maak-2   10s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.32%
 ```
 
 # 📊 GitHub Stats:
