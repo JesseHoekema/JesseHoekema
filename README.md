@@ -16,20 +16,19 @@ If you want to have a site build by me [Click Here](https://jessehoekema.com/#co
 
 # 🕧 Coding Stats:
 
-> ⏱️ **Total this week:** 1 hrs 13 mins
+> ⏱️ **Total this week:** 1 hrs 10 mins
 
 ```text
 💾 Languages:
-unknown                                      1h 2m 45s   ███████████████████░░░░░░  72.25%
-TypeScript                                   22m 0s      ███████░░░░░░░░░░░░░░░░░░  25.33%
-JSON                                         2m 0s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.30%
-Prisma                                       6s          █░░░░░░░░░░░░░░░░░░░░░░░░  0.12%
+unknown         1h 0m 35s   ██████████████████░░░░░░░  71.54%
+TypeScript      22m 0s      ███████░░░░░░░░░░░░░░░░░░  25.98%
+JSON            2m 0s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.36%
+Prisma          6s          █░░░░░░░░░░░░░░░░░░░░░░░░  0.12%
 
 💼 Projects:
-PolarLearn-v2                                34m 37s     █████████████░░░░░░░░░░░░  50.99%
-jesse                                        20m 38s     ████████░░░░░░░░░░░░░░░░░  30.40%
-web                                          12m 28s     █████░░░░░░░░░░░░░░░░░░░░  18.36%
-chrome-plugin-chrome-openai-bundled-maak-2   10s         █░░░░░░░░░░░░░░░░░░░░░░░░  0.25%
+PolarLearn-v2   34m 37s     █████████████░░░░░░░░░░░░  51.12%
+jesse           20m 38s     ████████░░░░░░░░░░░░░░░░░  30.47%
+web             12m 28s     █████░░░░░░░░░░░░░░░░░░░░  18.41%
 ```
 
 # 📊 GitHub Stats:
