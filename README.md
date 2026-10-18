@@ -16,21 +16,21 @@ If you want to have a site build by me [Click Here](https://jessehoekema.com/#co
 
 # 🕧 Coding Stats:
 
-> ⏱️ **Total this week:** 1 hrs 19 mins
+> ⏱️ **Total this week:** 1 hrs 8 mins
 
 ```text
 💾 Languages:
-unknown          1h 8m 11s   ██████████████████░░░░░░░  68.42%
-TypeScript       24m 0s      ███████░░░░░░░░░░░░░░░░░░  24.08%
-Svelte           5m 22s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.39%
-JSON             2m 0s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.01%
-Prisma           6s          █░░░░░░░░░░░░░░░░░░░░░░░░  0.10%
+unknown          56m 53s   █████████████████░░░░░░░░  64.38%
+TypeScript       24m 0s    ███████░░░░░░░░░░░░░░░░░░  27.16%
+Svelte           5m 22s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.07%
+JSON             2m 0s     █░░░░░░░░░░░░░░░░░░░░░░░░  2.26%
+Prisma           6s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.11%
 
 💼 Projects:
-PolarLearn-v2    34m 37s     ████████████░░░░░░░░░░░░░  46.63%
-jesse            20m 38s     ███████░░░░░░░░░░░░░░░░░░  27.80%
-web              12m 28s     █████░░░░░░░░░░░░░░░░░░░░  16.79%
-Robo Assistent   6m 31s      ███░░░░░░░░░░░░░░░░░░░░░░  8.78%
+PolarLearn-v2    34m 37s   ██████████████░░░░░░░░░░░  55.02%
+web              12m 28s   █████░░░░░░░░░░░░░░░░░░░░  19.81%
+jesse            9m 19s    ████░░░░░░░░░░░░░░░░░░░░░  14.81%
+Robo Assistent   6m 31s    ███░░░░░░░░░░░░░░░░░░░░░░  10.36%
 ```
 
 # 📊 GitHub Stats:
