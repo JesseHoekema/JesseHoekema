@@ -16,22 +16,22 @@ If you want to have a site build by me [Click Here](https://jessehoekema.com/#co
 
 # 🕧 Coding Stats:
 
-> ⏱️ **Total this week:** 3 hrs 13 mins
+> ⏱️ **Total this week:** 2 hrs 48 mins
 
 ```text
 💾 Languages:
-unknown           2h 45m 25s   ███████████████████░░░░░░  74.30%
-C++               22m 25s      ███░░░░░░░░░░░░░░░░░░░░░░  10.07%
-TypeScript        11m 36s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.21%
-Shell             8m 5s        █░░░░░░░░░░░░░░░░░░░░░░░░  3.63%
-Markdown          7m 4s        █░░░░░░░░░░░░░░░░░░░░░░░░  3.17%
+unknown                                        2h 30m 6s    ████████████████████░░░░░  77.81%
+C++                                            14m 47s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.66%
+TypeScript                                     11m 36s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.01%
+Shell                                          8m 5s        ██░░░░░░░░░░░░░░░░░░░░░░░  4.19%
+Markdown                                       7m 4s        █░░░░░░░░░░░░░░░░░░░░░░░░  3.66%
 
 💼 Projects:
-sketch_oct18a     1h 24m 58s   ███████████░░░░░░░░░░░░░░  43.79%
-jesse             40m 2s       ██████░░░░░░░░░░░░░░░░░░░  20.63%
-web               36m 33s      █████░░░░░░░░░░░░░░░░░░░░  18.84%
-planban-v2        21m 37s      ███░░░░░░░░░░░░░░░░░░░░░░  11.14%
-Midi Controller   6m 47s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.50%
+sketch_oct18a                                  1h 11m 42s   ███████████░░░░░░░░░░░░░░  42.18%
+web                                            36m 33s      ██████░░░░░░░░░░░░░░░░░░░  21.50%
+jesse                                          36m 1s       ██████░░░░░░░░░░░░░░░░░░░  21.19%
+planban-v2                                     21m 37s      ████░░░░░░░░░░░░░░░░░░░░░  12.72%
+referenced-chatgpt-conversation-this-is-an-2   2m 30s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.47%
 ```
 
 # 📊 GitHub Stats:
