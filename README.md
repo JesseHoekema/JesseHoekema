@@ -16,19 +16,19 @@ If you want to have a site build by me [Click Here](https://jessehoekema.com/#co
 
 # 🕧 Coding Stats:
 
-> ⏱️ **Total this week:** 1 hrs 57 mins
+> ⏱️ **Total this week:** 1 hrs 58 mins
 
 ```text
 💾 Languages:
-unknown      1h 20m 28s   █████████░░░░░░░░░░░░░░░░  35.02%
-Svelte       57m 22s      ███████░░░░░░░░░░░░░░░░░░  24.97%
-TypeScript   41m 55s      █████░░░░░░░░░░░░░░░░░░░░  18.24%
-CSS          18m 38s      ███░░░░░░░░░░░░░░░░░░░░░░  8.11%
-Prisma       10m 4s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.38%
+unknown      1h 23m 5s    █████████░░░░░░░░░░░░░░░░  35.75%
+Svelte       57m 22s      ███████░░░░░░░░░░░░░░░░░░  24.68%
+TypeScript   41m 55s      █████░░░░░░░░░░░░░░░░░░░░  18.04%
+CSS          18m 38s      ███░░░░░░░░░░░░░░░░░░░░░░  8.02%
+Prisma       10m 4s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.33%
 
 💼 Projects:
-modating     1h 45m 8s    ███████████████████████░░  88.09%
-jesse        14m 13s      ███░░░░░░░░░░░░░░░░░░░░░░  11.91%
+modating     1h 46m 20s   ███████████████████████░░  88.21%
+jesse        14m 13s      ███░░░░░░░░░░░░░░░░░░░░░░  11.79%
 ```
 
 # 📊 GitHub Stats:
