@@ -16,19 +16,22 @@ If you want to have a site build by me [Click Here](https://jessehoekema.com/#co
 
 # 🕧 Coding Stats:
 
-> ⏱️ **Total this week:** 2 hrs 0 mins
+> ⏱️ **Total this week:** 3 hrs 10 mins
 
 ```text
 💾 Languages:
-unknown      1h 25m 5s    ██████████░░░░░░░░░░░░░░░  36.30%
-Svelte       57m 22s      ███████░░░░░░░░░░░░░░░░░░  24.47%
-TypeScript   41m 55s      █████░░░░░░░░░░░░░░░░░░░░  17.88%
-CSS          18m 38s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.95%
-Prisma       10m 4s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.29%
+unknown         2h 32m 15s   █████████████░░░░░░░░░░░░  49.04%
+Svelte          57m 22s      █████░░░░░░░░░░░░░░░░░░░░  18.48%
+TypeScript      41m 55s      ████░░░░░░░░░░░░░░░░░░░░░  13.50%
+CSS             18m 38s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.00%
+Prisma          10m 4s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.24%
 
 💼 Projects:
-modating     1h 46m 20s   ██████████████████████░░░  86.77%
-jesse        16m 13s      ████░░░░░░░░░░░░░░░░░░░░░  13.23%
+modating        1h 46m 20s   █████████████░░░░░░░░░░░░  50.29%
+sketch_oct18a   36m 35s      █████░░░░░░░░░░░░░░░░░░░░  17.30%
+pcb             28m 26s      ████░░░░░░░░░░░░░░░░░░░░░  13.45%
+jesse           18m 46s      ███░░░░░░░░░░░░░░░░░░░░░░  8.88%
+manufacturing   9m 19s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.41%
 ```
 
 # 📊 GitHub Stats:
