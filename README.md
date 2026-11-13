@@ -16,22 +16,22 @@ If you want to have a site build by me [Click Here](https://jessehoekema.com/#co
 
 # 🕧 Coding Stats:
 
-> ⏱️ **Total this week:** 5 hrs 10 mins
+> ⏱️ **Total this week:** 5 hrs 2 mins
 
 ```text
 💾 Languages:
-unknown                     4h 33m 46s   ███████████████████░░░░░░  72.55%
-Python                      1h 4m 36s    █████░░░░░░░░░░░░░░░░░░░░  17.12%
-Java                        20m 3s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.31%
-Shell                       6m 56s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.84%
-TypeScript                  3m 34s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.95%
+unknown                     4h 9m 15s    █████████████████░░░░░░░░  65.10%
+Python                      1h 4m 36s    █████░░░░░░░░░░░░░░░░░░░░  16.87%
+Svelte                      20m 48s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.43%
+Java                        17m 9s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.48%
+TypeScript                  10m 18s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.69%
 
 💼 Projects:
-scratch-2026-11-03-6e9872   2h 27m 2s    ███████████░░░░░░░░░░░░░░  41.57%
-jesse                       1h 28m 12s   ███████░░░░░░░░░░░░░░░░░░  24.94%
-claude meter                59m 26s      █████░░░░░░░░░░░░░░░░░░░░  16.80%
-augustinus-spawn            15m 23s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.35%
-sketch_oct18a               12m 48s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.62%
+scratch-2026-11-03-6e9872   2h 5m 13s    ██████████░░░░░░░░░░░░░░░  36.42%
+jesse                       1h 28m 12s   ███████░░░░░░░░░░░░░░░░░░  25.66%
+claude meter                59m 26s      █████░░░░░░░░░░░░░░░░░░░░  17.29%
+asmp-site                   24m 12s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.04%
+augustinus-spawn            15m 23s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.47%
 ```
 
 # 📊 GitHub Stats:
