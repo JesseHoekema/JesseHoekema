@@ -16,22 +16,22 @@ If you want to have a site build by me [Click Here](https://jessehoekema.com/#co
 
 # 🕧 Coding Stats:
 
-> ⏱️ **Total this week:** 6 hrs 11 mins
+> ⏱️ **Total this week:** 6 hrs 37 mins
 
 ```text
 💾 Languages:
-unknown                 4h 26m 27s   █████████░░░░░░░░░░░░░░░░  35.75%
-Svelte                  2h 22m 5s    █████░░░░░░░░░░░░░░░░░░░░  19.06%
-TypeScript              1h 22m 32s   ███░░░░░░░░░░░░░░░░░░░░░░  11.07%
-Python                  32m 43s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.39%
-CSS                     27m 54s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.74%
+unknown                 4h 41m 37s   ██████████░░░░░░░░░░░░░░░  36.37%
+Svelte                  2h 22m 5s    █████░░░░░░░░░░░░░░░░░░░░  18.35%
+TypeScript              1h 22m 32s   ███░░░░░░░░░░░░░░░░░░░░░░  10.66%
+Python                  32m 43s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.23%
+Rust                    30m 58s      █░░░░░░░░░░░░░░░░░░░░░░░░  4.00%
 
 💼 Projects:
-web                     2h 49m 17s   ███████████░░░░░░░░░░░░░░  42.39%
-asmp-site               1h 15m 9s    █████░░░░░░░░░░░░░░░░░░░░  18.82%
-jesse                   50m 47s      ████░░░░░░░░░░░░░░░░░░░░░  12.72%
-claude meter            27m 49s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.96%
-jessehoekema.is-a.dev   22m 57s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.75%
+web                     2h 49m 17s   ██████████░░░░░░░░░░░░░░░  39.70%
+asmp-site               1h 15m 9s    █████░░░░░░░░░░░░░░░░░░░░  17.62%
+jesse                   54m 51s      ████░░░░░░░░░░░░░░░░░░░░░  12.86%
+claude meter            27m 49s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.52%
+jessehoekema.is-a.dev   22m 57s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.38%
 ```
 
 # 📊 GitHub Stats:
