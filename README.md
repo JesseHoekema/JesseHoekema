@@ -16,22 +16,22 @@ If you want to have a site build by me [Click Here](https://jessehoekema.com/#co
 
 # 🕧 Coding Stats:
 
-> ⏱️ **Total this week:** 5 hrs 34 mins
+> ⏱️ **Total this week:** 6 hrs 32 mins
 
 ```text
 💾 Languages:
-unknown                 3h 50m 38s   █████████░░░░░░░░░░░░░░░░  33.67%
-Svelte                  2h 22m 5s    ██████░░░░░░░░░░░░░░░░░░░  20.75%
-TypeScript              1h 22m 32s   ████░░░░░░░░░░░░░░░░░░░░░  12.05%
-Rust                    30m 58s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.52%
-CSS                     27m 54s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.07%
+unknown                 4h 35m 25s   ██████████░░░░░░░░░░░░░░░  36.43%
+Svelte                  2h 22m 5s    █████░░░░░░░░░░░░░░░░░░░░  18.80%
+TypeScript              1h 22m 32s   ███░░░░░░░░░░░░░░░░░░░░░░  10.92%
+Rust                    45m 48s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.06%
+CSS                     27m 54s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.69%
 
 💼 Projects:
-web                     2h 49m 17s   █████████████░░░░░░░░░░░░  48.96%
-asmp-site               1h 15m 9s    ██████░░░░░░░░░░░░░░░░░░░  21.73%
-jessehoekema.is-a.dev   22m 57s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.64%
-ferrum                  22m 20s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.46%
-RadioMaster             15m 56s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.61%
+web                     2h 49m 17s   ███████████░░░░░░░░░░░░░░  41.60%
+asmp-site               1h 15m 9s    █████░░░░░░░░░░░░░░░░░░░░  18.47%
+RadioMaster             47m 18s      ███░░░░░░░░░░░░░░░░░░░░░░  11.62%
+jessehoekema.is-a.dev   22m 57s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.64%
+ferrum                  22m 20s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.49%
 ```
 
 # 📊 GitHub Stats:
