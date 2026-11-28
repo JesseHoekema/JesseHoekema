@@ -16,22 +16,22 @@ If you want to have a site build by me [Click Here](https://jessehoekema.com/#co
 
 # 🕧 Coding Stats:
 
-> ⏱️ **Total this week:** 7 hrs 54 mins
+> ⏱️ **Total this week:** 6 hrs 55 mins
 
 ```text
 💾 Languages:
-unknown         6h 11m 11s   ██████████████░░░░░░░░░░░  55.07%
-Rust            1h 20m 52s   ███░░░░░░░░░░░░░░░░░░░░░░  12.00%
-Svelte          59m 52s      ███░░░░░░░░░░░░░░░░░░░░░░  8.88%
-Markdown        33m 32s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.98%
-Python          33m 17s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.94%
+unknown         5h 25m 42s   ██████████████░░░░░░░░░░░  54.08%
+Rust            1h 6m 2s     ███░░░░░░░░░░░░░░░░░░░░░░  10.97%
+Svelte          59m 52s      ███░░░░░░░░░░░░░░░░░░░░░░  9.94%
+Python          30m 38s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.09%
+TypeScript      28m 56s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.80%
 
 💼 Projects:
-RadioMaster     2h 34m 42s   ████████░░░░░░░░░░░░░░░░░  30.31%
-sketch_oct18a   1h 41m 1s    █████░░░░░░░░░░░░░░░░░░░░  19.79%
-jesse           1h 1m 3s     ███░░░░░░░░░░░░░░░░░░░░░░  11.96%
-case            1h 0m 54s    ███░░░░░░░░░░░░░░░░░░░░░░  11.93%
-MidiMaster      40m 54s      ███░░░░░░░░░░░░░░░░░░░░░░  8.01%
+RadioMaster     2h 3m 21s    ███████░░░░░░░░░░░░░░░░░░  27.37%
+sketch_oct18a   1h 34m 16s   ██████░░░░░░░░░░░░░░░░░░░  20.92%
+jesse           1h 1m 3s     ████░░░░░░░░░░░░░░░░░░░░░  13.55%
+case            43m 48s      ███░░░░░░░░░░░░░░░░░░░░░░  9.72%
+MidiMaster      40m 54s      ███░░░░░░░░░░░░░░░░░░░░░░  9.08%
 ```
 
 # 📊 GitHub Stats:
